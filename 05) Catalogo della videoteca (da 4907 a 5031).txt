@@ -1,0 +1,1334 @@
+[ID = 4907]
+Regista: Pedro Almodovar
+Titolo: Parla con lei
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00278
+Genere: Drammatico
+Lingua: ITA,SPA
+Attori: Javier Cámara, Leonor Watling, Darío Grandinetti, Rosario Flores.
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Due uomini che non si conoscono, sono seduti vicino per caso per assistere allo spettacolo di Pina Bausch, "Café Muller". Sono Benigno (un giovane infermiere) e Marco (uno scrittore quarantenne)....
+
+[ID = 4908]
+Regista: Alan Parker
+Titolo: Evita
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00279
+Genere: Drammatico
+Durata: 135 min.
+Lingua: ing
+Attori: Madonna,Antonio Banderas, Jonathan Pryce, Jimmy Nail, Julian Littman
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Il musical narra la storia di Eva Duarte, ex attrice divenuta poi la moglie del ex presidente argentino Juan Peron, stroncata da un male incurabile.
+
+[ID = 4909]
+Regista: Chuck Russell
+Titolo: Re Scorpione (Il)
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00280
+Genere: Avventura
+Durata: 91 min.
+Lingua: ITA,ING
+Attori: Dwayne Johnson, Steven Brand, Kelly Hu, Michael Clarke Duncan, Peter Facinelli.
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: La sua città è saccheggiata e la sua ragazza viene rapita dai predoni del Nord. Ma lui, un contadino, non si perde d’animo e raduna un gruppo di fuorilegge per fare giustizia.
+
+[ID = 4910]
+Regista: Jonathan Demme
+Titolo: Silenzio degli Innocenti (Il)
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00281
+Genere: Giallo
+Durata: 113 min.
+Lingua: ITA,ING
+Attori: Jodie Foster,Anthony Hopkins, Scott Glenn, Kasi Lemmons, Anthony Heald
+Vietato: 14
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Clarice Starling, per catturare un serial killer, viene incaricata di contattare l'ex psichiatra Hannibal Lecter, rinchiuso in un manicomio criminale perchè divorava i suoi pazienti.
+
+[ID = 4911]
+Regista: Roger Michell
+Titolo: Ipotesi di reato
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00282
+Genere: Drammatico
+Durata: 99 min.
+Lingua: ITA,ING
+Attori: Ben Affleck, Samuel L. Jackson, Toni Collette, Sydney Pollack, William Hurt
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: New York. Un giovane avvocato ed un uomo d'affari partecipano in un piccolo incidente d'auto e la loro rabbia sfocia in una guerra.
+
+[ID = 4912]
+Regista: Tom McLoughlin
+Titolo: Sotto silenzio - The Unsaid
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00283
+Genere: Giallo
+Durata: 100 min.
+Lingua: ITA,ING
+Attori: Andy Garcia, Chelsea Field, Linda Cardellini, Vincent Kartheiser, Teri Polo.
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Un adolescente, rimasto orfano in circostanze tragiche, si trasforma rapidamente da vittima in carnefice, coinvolgendo lo psicologo che l'assiste in un vortice di violenza e omicidi.
+
+[ID = 4913]
+Regista: Herbert Ross
+Titolo: Footloose
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00284
+Genere: Musica da ballo
+Durata: 107 min.
+Lingua: ITA,SPA,ING,FRA
+Attori: Kevin Bacon, Lori Singer, Dianne Wiest John Lithgow, Christopher Penn
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: In seguito ad un incidente durante una festa da ballo, in una cittadina di provincia viene bandita la musica ma, da una lontana città, arriva un giovane ballerino che, in compagnia .....
+
+[ID = 4914]
+Regista: Tim Pope
+Titolo: Corvo (Il) 2
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00285
+Genere: Fantastico
+Durata: 85 min.
+Lingua: ITA,ING
+Attori: Vincent Perez, Mia Kirshner, Richard Brooks, Iggy Pop, Thomas Jane, .......
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: In una atmosfera gotico-dark, un uomo, ucciso insieme al figlio da una banda di drogati, torna in vita per vendicarsi grazie all'aiuto di una tatuatrice e di corvo magico.
+
+[ID = 4915]
+Regista: John Badham
+Titolo: febbre del sabato sera (La)
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00286
+Genere: Musica balletto
+Durata: 119 min.
+Lingua: ITA
+Attori: John Travolta, Karen Lynn Gorney, Barry Miller, Joseph Cali, Paul Pape, .......
+Vietato: 14
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Tony Manero, commesso in un negozio di vernici a Brooklyn, cerca di uscire dallo squallore e dalla monontonia quotidiana, sfogandosi sulla pista da ballo il sabato sera.
+
+[ID = 4916]
+Regista: Joe Carnahan
+Titolo: Narc - Analisi di un delitto
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00287
+Genere: Giallo
+Durata: 101 min.
+Lingua: ITA,ING
+Attori: Ray Liotta , Jason Patric , Chi McBride
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Nick Tellis, un poliziotto della narcotici, è riuscito ad uscire dal tunnel della droga. Il dipartimento lo reinserisce nella squadra per indagare sul misterioso omicidio .......
+
+[ID = 4917]
+Regista: Mattew O'Callaghan
+Titolo: Topolino strepitoso Natale
+Oggetto: animazione
+Supporto: DVD
+Collocazione: DVD 00288
+Genere: Fantastico
+Durata: 67
+Lingua: ITA,ING
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Una nuova storia in cui Topolino e Paperino insieme agli amici di sempre, vivono esilaranti avventure aprendo il cuore al vero spirito del Natale.
+
+[ID = 4918]
+Regista: National Geographic
+Titolo: Vulcani - La furia della natura
+Oggetto: documentario
+Supporto: DVD
+Collocazione: DVD 00289
+Argomenti: documentario sui vulcani
+Durata: 75 min.
+Lingua: ITA
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Dalle hawaii al Giappone, dalle Filippine alla Colombia, il video " Vulcani" ci porta alla scoperta delle eruzioni più devastanti della storia.....
+
+[ID = 4919]
+Regista: Stephen Sommers
+Titolo: Van Helsing
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00290
+Genere: Avventura
+Lingua: ITA,ING
+Attori: Hugh Jackman, Kate Beckinsale, Richard Roxburgh, David Wenham, Will Kemp, ...
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Fine Ottocento, il leggendario cacciatore di mostri, inventato da Stoker, Van Helsing viene invitato a recarsi in un lontano e pericoloso paese dell'Europa orientale allo scopo di sconfiggere il male...
+
+[ID = 4920]
+Regista: William Finn, John Sanford
+Titolo: Mucche alla riscossa
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00291
+Genere: Fantastico
+Durata: 73 min.
+Lingua: ITA,ING,CROA
+Attori: Voci: Roseanne (Maggie), Judi Dench (Mrs. Calloway), Jennifer Tilly (Grace), ....
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: In una fattoria del selvaggio West, tutti gli animali guidati da tre intrepide mucche, si adoperano per trovare i soldi necessari a salvare la loro adorata casa da un prepotente.
+
+[ID = 4921]
+Regista: John McTiernan
+Titolo: Rollerball
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00292
+Genere: Fantastico
+Durata: 118 min.
+Lingua: ITA
+Attori: Chris Klein, Jean Reno, LL Cool J, Rebecca Romijn-Stamos, Naveen Andrews, ...
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: La grande attrazione nel 2005 si chiama Rollerball, uno sport violento che può avere anche terribili conseguenze tra le quali.....la morte.
+
+[ID = 4922]
+Regista: Chris Walas
+Titolo: Mosca ( La ) 2
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00293
+Genere: Orrore
+Durata: 100 min.
+Attori: John Getz,Lee Richardson,Daphne Zuniga,.........
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Tale il padre, tale il figlio. Concepito dal protagonista di La mosca di David Cronenberg, il mostruoso suo figlio Martin cresce così in fretta che già a cinque anni ......
+
+[ID = 4923]
+Regista: Alan Parker
+Titolo: Angel heart
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00294
+Genere: Drammatico
+Durata: 113 min.
+Lingua: ITA,ING,TED,SPA
+Attori: Mickey Rourke, Robert De Niro, Lisa Bonet, Charlotte Rampling, Brownie McGhee,..
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: L'investigatore privato Harry Angel viene ingaggiato da un misterioso cliente per ritrovare Johnny Favorite, un cantante sparito senza onorare un contratto. Ma quando scopre....
+
+[ID = 4924]
+Regista: Laetitia Colombani
+Titolo: M'ama non M'ama
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00295
+Genere: Commedia
+Durata: 92 min.
+Lingua: ITA,FRA
+Attori: Audrey Tautou, Samuel Le Bihan, Isabelle Carré
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Una commedia romantica con la protagonista di "Amelie" assillata dall'eterno dilemma del titolo.
+
+[ID = 4925]
+Regista: John Boorman
+Titolo: Sarto ( Il ) di Panama
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00296
+Genere: Giallo
+Durata: 109 min.
+Lingua: ITA,ING,SPA
+Attori: Pierce Brosnan, Geoffrey Rush, Jamie Lee Curtis, Daniel Radcliffe
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Un sarto che vive a Panama controvoglia, diventa una spia per un agente britannico.
+
+[ID = 4926]
+Regista: Luc Besson
+Titolo: Grand ( Le ) Bleu
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00297
+Genere: Avventura
+Durata: 120 min.
+Lingua: ITA
+Attori: Jean Reno, Jean-Marc Barr, Rosanna Arquette, Sergio Castellitto
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Le grand bleu racconta la storia di due uomini che trattenendo il respiro si calano ad una profondità di oltre cento metri al di sotto del livello del mare, subacquei che rimangono per oltre .....
+
+[ID = 4927]
+Regista: Irwin Winkler
+Titolo: Ultimo ( L' ) sogno
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00298
+Genere: Drammatico
+Durata: 124 min.
+Lingua: ITA,ING
+Attori: Kevin Kline, Kristin Scott Thomas, Hayden Christensen, Mary Steenburgen, ...
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: George, architetto di mezza età, ha scoperto di avere un cancro terminale. La sua intenzione è di mettere a posto la sua vita, i rapporti con la sua ex moglie e i suoi figli, soprattutto vuole .....
+
+[ID = 4928]
+Regista: Takashi Shimizu
+Titolo: Ju-on  The grudge2 - La maledizione
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00299
+Genere: Orrore
+Durata: 92 min.
+Lingua: ITA,GIA
+Attori: Noriko Sakai; Kei Horie; Chiharu Niyama; Yui Ichikawa
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Ju-on è la maledizione di una persona che muore in preda a una collera furiosa che si accumula per poi scatenarsi nei luoghi in cui la persona è vissuta.
+
+[ID = 4929]
+Regista: Alfonso Cuaron
+Titolo: Harry Potter e il prigioniero di Azkaban   [2DVD]
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00300
+Genere: Fantastico
+Lingua: ITA,ING,EBR
+Attori: Daniel Radcliffe, Rupert Grint, Emma Watson, Gary Oldman, Michael Gambon, ....
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Nel terzo episodio della saga, Harry Potter ed i suoi amici Ron ed Ermione ritornano per il terzo anno alla scuola di magia di Hogwarts. Qui si trovano a fronteggiare il mistero che ....
+
+[ID = 4930]
+Regista: Shawn Levy
+Titolo: Scatenata (Una ) dozzina
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00301
+Genere: Commedia
+Durata: 99 min.
+Lingua: ITA,ING
+Attori: Steve Martin, Bonnie Hunt, Hilary Duff, Tom Welling, Piper Perabo, ....
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Nell'America di oggi, dove la media per ogni famiglia è di 1,87 figli, Tom Baker e sua moglie Kate hanno deciso di dar guerra alle statistiche: il risultato, una scatenata dozzina. I Baker  .....
+
+[ID = 4931]
+Regista: Roger Michell
+Titolo: Notting Hill
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00302
+Genere: Commedia
+Durata: 120 min.
+Lingua: ITA,ING,SPA
+Attori: Hugh Grant, Julia Roberts, Alec Baldwin, Tim McInnerny, Rhys Ifans
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Un giovane un po' imbranato libraio inglese (Hugh Grant) conosce e riesce a sedurre un'affascinante star del cinema (Julia Roberts), andata in incognito nel suo negozio nel quartiere londinese .....
+
+[ID = 4932]
+Regista: Quentin Tarantino
+Titolo: Jackie Brown
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00303
+Genere: Drammatico
+Durata: 154 min.
+Lingua: ITA,ING
+Attori: Pam Grier, Samuel L. Jackson, Robert Forster, Bridget Fonda, Michael Keaton, ..
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Per arrotondare lo stipendio, una hostess appena uscita di prigione, trasporta della merce che scotta. Con l'aiuto di un ex poliziotto però decide di incastrare il suo committente, avvertendo ....
+
+[ID = 4933]
+Regista: Walt Disney
+Titolo: Aladdin  [2DVD]
+Oggetto: animazione
+Supporto: DVD
+Collocazione: DVD 00304
+Genere: Fantastico
+Durata: 82 min.
+Lingua: ITA,ING,CRO
+Sottotitoli: SI
+Acquisizione: Acquisto
+
+[ID = 4935]
+Regista: David Twohy
+Titolo: Pitch Black
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00307
+Genere: Fantastico
+Durata: 103 min.
+Lingua: ITA,ING
+Attori: Vin Diesel, Radha Mitchell, Cole Hauser, Keith David.
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: In un futuro non molto lontano nel tempo, il pilota di navi spaziali Fry è costretta a tentare un atterraggio di fortuna su un pianeta lontano. Solo alcuni passeggeri riescono .......
+
+[ID = 4936]
+Regista: Mike Newell
+Titolo: Mona Lisa smile
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00306
+Genere: Commedia
+Durata: 114 min.
+Lingua: ITA,ING
+Attori: Julia Roberts, Kirsten Dunst, Julia Stiles, Maggie Gyllenhaal, ...
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Nell'America del 1953 le donne si preparavano per un notevole cambiamento di vita. Katherine Watson, spirito libero, laureata in storia dell'arte a Berkeley accetta di insegnare al Wellesley College ..
+
+[ID = 4937]
+Regista: Andrew Stanton
+Titolo: Ricerca ( Alla ) di Nemo
+Oggetto: animazione
+Supporto: DVD
+Collocazione: DVD 00308
+Genere: Fantastico
+Durata: 97 min.
+Lingua: ITA,ING
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Il piccolo pesce pagliaccio Nemo, in cerca di nuove avventure, si allontana un po' troppo da casa sua e si perde. Suo padre Marlin con l'aiuto di altri animali marini nuoterà tra le acque dell'oceano ...
+
+[ID = 4938]
+Regista: David Fincher
+Titolo: game (The) Game
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00309
+Genere: Giallo
+Durata: 129 min.
+Lingua: ITA,ING
+Attori: Michael Douglas, Sean Penn, Deborah Unger, James Rebhorn, Peter Donat, ...
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Uno spento uomo d'affari di mezza età, si fa convincere dal fratelo minore ad iscriversi in un club che organizza giochi tanto realistici che lo faranno precipitare in un incubo senza fine.
+
+[ID = 4939]
+Regista: Agnieszka holland
+Titolo: Giardino ( Il ) segreto
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00310
+Genere: Commedia
+Durata: 101 min.
+Lingua: ING,FRA,ITA,OLA
+Attori: Andrew Knott,Irène Jacob,Laura Crossley
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: E la storia della decenne Mary Lennox che, accolta nel maniero di uno zio misantropo, vi riporta la gioia di vivere e riesce anche a rimettere in piedi il malandato cuginetto: la felicità è lì, a portata .
+
+[ID = 4940]
+Regista: Gurinder Chadha
+Titolo: Sognando Beckham
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00311
+Genere: Commedia
+Durata: 112 min
+Lingua: ITA,ING
+Attori: Parminder K. Nagra, Keira Knightley, Jonathan Rhys-Meyers
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Jess gioca a calcio e sogna di diventare famosa come David Beckham. Ma Jess è una ragazza indiana e i suoi genitori hanno tutt'altri progetti per lei. La sua amica Jules vuole andare negli Stati Uniti ....
+
+[ID = 4941]
+Regista: Alan Parker
+Titolo: life (The) of David Gale
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00312
+Genere: Giallo
+Durata: 130 min.
+Attori: Kevin Spacey, Kate Winslet, Laura Linney
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: David Gale è un uomo di saldi principi, che per un atroce scherzo del destino, da padre devoto, amato professore, e stimato oppositore della pena capitale, finisce nel .....
+
+[ID = 4942]
+Regista: Andy Tennant
+Titolo: Tutta colpa dell'amore
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00313
+Genere: Commedia
+Durata: 105 min.
+Lingua: ITA,ING,TED,TUR
+Attori: Reese Witherspoon, Patrick Dempsey, Josh Lucas, Ethan Embry, ....
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Una giovane ragazza dell'Alabama riesce a fare carriera nel mondo della moda a New York City. Quando riceve una proposta di matrimonio dallo scapolo più desiderabile della città,
+
+[ID = 4943]
+Regista: Marc Lawrence
+Titolo: Two weeks notice - Due settimane per innamorarsi
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00314
+Genere: Comico
+Durata: 100 min.
+Lingua: ITA,ING,FRA
+Attori: Hugh Grant, Sandra Bullock, Alicia Witt, Mark Feuerstein, Dana Ivey, Robert Klein,
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: L'avvocato Lucy è brillante ma leggermente nevrotica. George è il suo capo, affascinante, irresponsabile e favolosamente ricco. Quando Lucy decide di licenziarsi, tutti e due sono ....
+
+[ID = 4944]
+Regista: Anthony Hickox
+Titolo: Storm Catcher
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00315
+Genere: Giallo
+Durata: 91 min.
+Lingua: ITA,ING
+Attori: Dolph Lundgren , Anthony Hickox , Robert Miano
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Il top-gun Jack Holloway è ingiustamente accusato di aver trafugato il prototipo di un aereo.  Dpo il processo viene dichiarato colpevole........
+
+[ID = 4945]
+Regista: Martin Stellman
+Titolo: Dio salvi la Regina -For Queen and Country
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00316
+Genere: Drammatico
+Durata: 110 min.
+Lingua: ITA,ING
+Vietato: 14
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Dopo nove anni di servizio nei parà, la guerra delle Falkland e la guerriglia dell'Ira, Reuben si congeda. Trova però una società degradata, ex commilitoni sbandati, il disprezzo della gente ....
+
+[ID = 4946]
+Regista: Caroline Thompson
+Titolo: Black Beauty
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00317
+Genere: Commedia
+Durata: 85 min.
+Lingua: ITA,ING,OLA,FRA
+Attori: Alun Armstrong,Peter Davison,Jim Carter,David Thewlis,Sean Bean
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Oramai anziano, il vecchio purosangue Black Beauty ricorda e passa in rassegna tutta la sua vita di cavallo. Dall'infanzia passata nelle campagne e dai primi terribili padroni,  ....
+
+[ID = 4947]
+Regista: François Ozon
+Titolo: 8 Donne e un mistero
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00318
+Genere: Commedia
+Durata: 103 min.
+Lingua: ITA,FRA
+Attori: Danielle Darrieux, Catherine Deneuve, Isabelle Huppert, Emmanuelle Béart, ....
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Alla vigilia di Natale un omicidio sconvolge 8 donne. Ognuna è sospettata, ognuna ha un movente, ognuna nasconde un segreto.
+
+[ID = 4948]
+Regista: Ron Howard
+Titolo: beautiful mind (A )
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00319
+Genere: Drammatico
+Durata: 134 min.
+Lingua: ITA,ING
+Attori: Russell Crowe, Jennifer Connelly, Ed Harris, Paul Bettany
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Ispirato alla vita del matematico John Forbes Nash Jr. vincitore, nel 1990, del premio Nobel per l'economia.
+
+[ID = 4949]
+Regista: Todd Phillips
+Titolo: Starsky & Hutch
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00320
+Genere: Commedia
+Durata: 101 min.
+Lingua: ITA,ING,FRA
+Attori: Ben Stiller, Owen Wilson, Snoop Dogg, Vince Vaughn, Carmen Electra, Molly Sims,..
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Ambientato negli anni '70 nella città di Bay City, è la storia di una coppia di detective della polizia: Ken Hutch Hutchinson e Dave Starsky, che ottengono sempre i casi più difficili ....
+
+[ID = 4950]
+Regista: Rob Cohen
+Titolo: Fast and the Furious (The )
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00321
+Genere: Avventura
+Durata: 70 min.
+Lingua: ING,ITA,SPA
+Attori: Vin Diesel, Paul Walker, Jordana Brewster, Michelle Rodriguez, Rick Yune.
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Un poliziotto di Los Angeles si infaltra in una banda per scoprire gli illeciti che ruotano al mondo delle corse di velocità su strada.
+
+[ID = 4951]
+Regista: John Singleton
+Titolo: Fast(2) 2 Furious
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00322
+Genere: Avventura
+Durata: 100 min.
+Lingua: ITA,ING
+Attori: Paul Walker, Tyrese Gibson, Eva Mendes, Cole Hauser, Chris "Ludacris" Bridges,..
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: L'agente O'Connor, privato del suo distintivo, viene reclutato come infiltrato in un giro clandestino di corsa automobilistica a Miami, in questo modo avrà l'opportunità di riscattarsi.
+
+[ID = 4952]
+Regista: Nancy Meyers
+Titolo: Tutto può succedere
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00323
+Genere: Commedia
+Durata: 123 min.
+Lingua: ITA,ING,FRA
+Attori: Jack Nicholson, Diane Keaton, Keanu Reeves, Frances McDormand,  ....
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Harry Sanborn, è un inguaribile playboy che non si arrende al passare degli anni e si ostina a frequentare donne molto più giovani di lui. Durante un weekend romantico .....
+
+[ID = 4953]
+Regista: Sam Raimi
+Titolo: Spider-Man
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00324
+Genere: Commedia
+Durata: 117 min.
+Lingua: ITA,ING
+Attori: Tobey Maguire, Willem Dafoe, Kirsten Dunst
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Peter Parker (Tobey Maguire), nella sua scuola fa parte di quella cerchia considerata Nerds. Ma quando viene punto da un ragno radioattivo...
+
+[ID = 4954]
+Regista: Sam Raimi
+Titolo: Spider-Man 2
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00325
+Genere: Commedia
+Durata: 123 min.
+Lingua: ITA,ING
+Attori: Tobey Maguire, Kirsten Dunst, Alfred Molina, James Franco, Willem Dafoe
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Spider-Man è tornato e dovrà affrontare una nuova minaccia per New York: Dr. Octopus che un tempo era amico del vecchio insegnante di scienze di Peter Parker.
+
+[ID = 4955]
+Regista: Kathryn Bigelow
+Titolo: K-19: The Widowmaker
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00326
+Genere: Drammatico
+Durata: 133 min.
+Lingua: ITA,ING
+Attori: Harrison Ford, Liam Neeson, Joss Ackland, Peter Sarsgaard
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Ispirato a un fatto realmente avvenuto nel Nord Atlantico 1961, il film racconta l’eroismo del capitano Alexei Vostrikov (Harrison Ford) che, al culmine della Guerra Fredda, riceve l’ordine di .....
+
+[ID = 4956]
+Regista: Peter Hyams
+Titolo: D'Artagnan
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00327
+Genere: Drammatico
+Durata: 105 min.
+Lingua: ITA,ING
+Attori: Catherine Deneuve, Stephen Rea, Mena Suvari, Tim Roth, Justin Chambers.
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Il giovane e audace D'Artagnan, abbandonato il proprio villaggio natio, intraprende un viaggio con un duplice obiettivo: entrare a far parte del Corpo dei Moschettieri e ......
+
+[ID = 4957]
+Regista: F. Gary Gray
+Titolo: Risolutore (Il)
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00328
+Genere: Poliziesco
+Durata: 105 min.
+Lingua: ITA,ING
+Attori: Vin Diesel, Larenz Tate, Timothy Olyphant
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Sean, agente della DEA, combatte con successo il crimine della droga tra la California e il Messico. Quando gli viene uccisa la moglie...
+
+[ID = 4958]
+Regista: Léa Pool
+Titolo: Altra (L') metà dell'amore
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00329
+Genere: Drammatico
+Durata: 103 min.
+Lingua: ITA,ING
+Attori: Piper Perabo, Jessica Paré, Mischa Barton
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Mouse Bradford è appena arrivata al Perkins Girl's College, lasciandosi alle spalle la piccola cittadina dove è cresciuta, il padre e la matrigna. In breve tempo, Mouse viene "adottata" ......
+
+[ID = 4959]
+Regista: David Twohy
+Titolo: Chronicles (The ) of Riddick
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00330
+Genere: Avventura
+Durata: 114 min.
+Lingua: ITA,ING
+Attori: Keith David, Vin Diesel, Colm Feore, Thandie Newton, Linus Roache, Karl Urban
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Riddick ha passato cinque anni in giro tra mondi dimenticati all'estremo della galassia, sfuggendo a mercenari a caccia della taglia sulla sua testa. Attualmente, il fuggiasco si trova sul pianeta .....
+
+[ID = 4960]
+Regista: Joel Coen
+Titolo: grande (Il) Lebowski
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00331
+Genere: Commedia
+Durata: 117 min.
+Lingua: ITA,ING
+Attori: Jeff Bridges, John Goodman, Julianne Moore, Steve Buscemi, David Huddleston, ..
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Un ex hippy, viene assunto da un miliardario per consegnare nel luogo prescelto il riscatto per il rapimento della moglie. Ma dopo qualche incontro piccante con la figlia del suo datore ....
+
+[ID = 4961]
+Regista: Michael Caton-Jones
+Titolo: Jackal (The)
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00332
+Genere: Giallo
+Durata: 124 min.
+Lingua: ITA,ING,SPA
+Attori: Bruce Willis, Richard Gere, Sidney Poitier, Diane Venora, Mathilda May, ....
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Un ex terrorista dell'IRA, Declan Mulqueen, viene fatto uscire di prigione per rintracciare un Killer chiamato "The Jackal" che solo lui è in grado di riconoscere.
+
+[ID = 4962]
+Regista: Alexander Payne
+Titolo: A proposito di Schmidt
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00333
+Genere: Drammatico
+Durata: 125 min.
+Lingua: ITA,ING
+Attori: Jack Nicholson, Kathy Bates, Hope Davis, Dermot Mulroney, June Squibb,
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Warren Schmidt, ormai sessantenne, mentre parte per il matrimonio della figlia realizza che la sua vita è destinata a finire come la vissuta: un fallimento. Ma durante il suo .......
+
+[ID = 4963]
+Regista: Tony Bancroft
+Titolo: Mulan 2
+Oggetto: animazione
+Supporto: DVD
+Collocazione: DVD 00335
+Genere: Fantastico
+Durata: 109 min.
+Lingua: ITA,ING,CROA,SLO
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Mulan è una ragazzina che cerca in ogni modo di essere una figlia perfetta e di compiacere i genitori, finendo invece col farli sempre arrabbiare. Quando l'anziano padre viene chiamato in guerra, lo spirito coraggioso di
+
+[ID = 4964]
+Regista: P.J. Hogan
+Titolo: Peter Pan
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00334
+Genere: Avventura
+Durata: 67 min.
+Lingua: ITA,ING,CRO,SLO
+Attori: Jeremy Sumpter, Jason Isaacs, Rachel Hurd-Wood, Olivia Williams, ....
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: I bambini della famiglia Darling ricevono la visita di Peter Pan che li porta all'Isola che Non C'E', dove è in atto una guerra contro Capitano Uncino.
+
+[ID = 4965]
+Regista: Peter Chelsom
+Titolo: Shall we dance?
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00336
+Genere: Commedia
+Durata: 102 min.
+Lingua: ITA,ING
+Attori: Richard Gere, Jennifer Lopez, Susan Sarandon, Stanley Tucci, Bobby Canavale, ..
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: John Clark è un avvocato di Chicago consapevole che la sua vita è quasi perfetta. Ama la bella moglie, ha ottenuto successo nel lavoro e ha due figli meravigliosi ...
+Note: Contiene 2 DVD per la visione normale e alta definizione
+
+[ID = 4972]
+Regista: Videoproduction s.n.c.
+Titolo: La Macchina di Santa Rosa-dalle origini al III Millennio
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 04585
+Produzione: 2003
+Genere: Documentazione locale
+Sottotitoli: NO
+Acquisizione: Acquisto
+
+[ID = 4973]
+Regista: Provideo
+Titolo: Ali di Luce  - 3 Settembre 2003
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 04586
+Genere: Documentazione locale
+Sottotitoli: NO
+Acquisizione: Acquisto
+
+[ID = 4974]
+Regista: Gianluca Di Prospero
+Titolo: S.Rosa il Cuore di Viterbo
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 04587
+Genere: Documentazione locale
+Lingua: ITA
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: La storia della piccola Rosa il fiore più bello di Viterbo
+
+[ID = 4980]
+Regista: Anthony Clarke
+Titolo: rivoluzione della canapa ( La )
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 04593
+Produzione: Australia, 1995
+Genere: Documentazione locale
+Durata: 75 min.
+Lingua: ITA
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Una storia della cannabis sativa e del suo intreccio con l'uomo a partire dal suo primo utilizzo in oriente fino alle campagne antidroga di Clinton e Bush.
+
+[ID = 4982]
+Regista: Ministero beni culturali Etruria meridionale
+Titolo: Tesori storia e leggende d'Italia - Ferento la città silente
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 04595
+Genere: Documentazione locale
+Lingua: ITA
+Sottotitoli: NO
+Acquisizione: Dono
+Abstract: Un'entusiasmante spedizione alla soperta dei siti più affascinanti della nostra terra
+
+[ID = 4986]
+Regista: Santec Studio
+Titolo: La Luce Originaria
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 04599
+Produzione: Santec Studio
+Genere: Documentazione locale
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Sviluppa le forze di autoguarigione Guarisci te stesso con la forza del Cristo - Dio
+
+[ID = 4987]
+Regista: michelangelo Dotta
+Titolo: Giovanni Paolo II - quasi un'autonomia
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 04600
+Genere: Documentazione locale
+Durata: 55 min.
+Lingua: ITA
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: In questo documentario la vita di Karol Wojtyla raccontata esclusivamente attraverso le sue parole..
+
+[ID = 4997]
+Regista: -
+Titolo: A.D. 1095 Viterbo - Le Sette Porte
+Oggetto: documentario
+Supporto: DVD
+Collocazione: DVD 00337
+Genere: Documentazione locale
+Lingua: ITA
+Sottotitoli: NO
+Acquisizione: Dono
+
+[ID = 4998]
+Regista: -
+Titolo: Il Lago racconta - BOLSENA dalla preistaria alla distruzione di Velzna
+Oggetto: documentario
+Supporto: DVD
+Collocazione: DVD 00338
+Genere: Documentazione locale
+Lingua: ITA
+Sottotitoli: NO
+Acquisizione: Dono
+
+[ID = 4999]
+Regista: -
+Titolo: Ferento - La città silente
+Oggetto: documentario
+Supporto: DVD
+Collocazione: DVD 00339
+Genere: Documentazione locale
+Sottotitoli: SI
+Acquisizione: Dono
+
+[ID = 5000]
+Regista: -
+Titolo: Antichi Popoli e Nobili Signori - Soriano nel Cimino
+Oggetto: documentario
+Supporto: DVD
+Collocazione: DVD 00340
+Genere: Documentazione locale
+Lingua: ITA
+Sottotitoli: NO
+Acquisizione: Dono
+
+[ID = 5001]
+Regista: -
+Titolo: Falerii Veteres - Due città un popolo - Falerii Novi
+Oggetto: documentario
+Supporto: DVD
+Collocazione: DVD 00341
+Genere: Documentazione locale
+Lingua: ITA
+Sottotitoli: NO
+Acquisizione: Dono
+
+[ID = 5002]
+Regista: -
+Titolo: Antichi Popoli e Nobili Signori - Soriano nel Cimino
+Oggetto: documentario
+Supporto: DVD
+Collocazione: DVD 00342
+Genere: Documentazione locale
+Lingua: ITA
+Sottotitoli: NO
+Acquisizione: Dono
+
+[ID = 5003]
+Regista: -
+Titolo: Sutri - La città antichissima
+Oggetto: documentario
+Supporto: DVD
+Collocazione: DVD 00343
+Genere: Documentazione locale
+Lingua: ITA
+Sottotitoli: NO
+Acquisizione: Dono
+
+[ID = 5004]
+Regista: -
+Titolo: Festa della Repubblica - 2 Giugno 2005
+Oggetto: documentario
+Supporto: DVD
+Collocazione: DVD 00344
+Lingua: ITA
+Sottotitoli: NO
+Acquisizione: Dono
+
+[ID = 5005]
+Regista: -
+Titolo: 25 - 26 - 27 Maggio - Teatro studio, centro Trevi Bolzano
+Oggetto: documentario
+Supporto: DVD
+Collocazione: DVD 00345
+Produzione: Media Time
+Lingua: ITA
+Sottotitoli: NO
+Acquisizione: Dono
+
+[ID = 5006]
+Regista: Ambrogio Lo Giudice
+Titolo: Una Storia Semplice
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00346
+Produzione: COOP
+Lingua: ITA
+Sottotitoli: NO
+Acquisizione: Dono
+Abstract: Due ragazzi un autentico amore e un pò surreale..
+
+[ID = 5007]
+Regista: -
+Titolo: L'Aquila  Verbum Domini
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00347
+Genere: Storico
+Lingua: ITA
+Sottotitoli: NO
+Acquisizione: Dono
+Abstract: La I ricostruzione storica sul Medioevo, L'Aquila e Celestino V mai realizzata...
+
+[ID = 5008]
+Regista: Fausta Samaritani
+Titolo: Repubblica Letteraria Zerantatre
+Oggetto: documentario
+Supporto: DVD
+Collocazione: DVD 00348
+Sottotitoli: NO
+Acquisizione: Dono
+Abstract: n.4 della collana Web-ring Letterario, a cura di Fausta Samaritani
+
+[ID = 5009]
+Regista: Adam Shankman
+Titolo: Passi ( I ) dell'Amore
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00349
+Genere: Drammatico
+Lingua: ITA,ING
+Attori: Mandy Moore, Shane West, Al Thompson, Daryl Hannah, Lauren German
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Landon Carter e il suo gruppo, sfaticati studenti del liceo, prendono costantemente in giro Jamie Sullivan, dolce e innocente ragazza. Landon però si innamora di lei.....
+
+[ID = 5010]
+Regista: Joey Travolta
+Titolo: Partners
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00350
+Genere: Poliziesco
+Durata: 90 min.
+Lingua: ITA, ING
+Attori: Gasper Van Dien, Vanessa Angel
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Quando Axel, un delinquente senza scru-  poli, ruba la valigia a Bob, un program  matore di software, non sospetta di es-  sere entrato in un grande intrigo ....
+
+[ID = 5011]
+Regista: Danny Boyle
+Titolo: Distruggete Los Angeles
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00351
+Genere: Fantastico
+Durata: 90 min.
+Lingua: ITA, ING
+Attori: Rutger Hauer, Mark Dacascos
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Lo scenziato Matthew Sallin osserva preoccupanti variazioni di clima, un catastrofe immininte in Antartide e inspiegabili eruzioni di vulcani..
+
+[ID = 5012]
+Regista: Danny Boyle
+Titolo: 28 giorni dopo
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00352
+Durata: 112 min.
+Lingua: ITA, ING
+Attori: Cillian Murphy, Naomie Harris, Christopher Eccleston, Megan Burns, ..
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Durante un’irruzione in un centro di ricerca sulle scimmie, un gruppo di attivisti per i diritti degli animali scopre scimpanzé chiusi in gabbia davanti a file
+
+[ID = 5013]
+Regista: Peter Berg
+Titolo: Cose molto cattive
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00353
+Genere: Commedia
+Durata: 132 min.
+Lingua: ITAS,ING
+Attori: Cameron Diaz, Jon Favreau, Christian Slater, Leland Orser, Jeanne Tripplehorn, ..
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Alla vigilia dell'atteso matrimonio tra Laura (Cameron Diaz) e Kile (Jon Favreau), gli amici di quest'ultimo lo convincono a trascorrere una notte di eccessi a Las Vegas ....
+
+[ID = 5014]
+Regista: John Waters
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00354
+Genere: Commedia
+Durata: 87 min.
+Lingua: ITA, ING
+Attori: Melanie Griffith, Stephen Dorff, Alicia Witt, Adrian Grenier.
+Vietato: 14
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: "A morte Hollywood!" è una commedia d'azione che ruota intorno ad un giovane regista e alla sua compagnia di fanatici del cinema, i "Perforati d'acciaio" che rapiscono una diva ....
+
+[ID = 5015]
+Regista: George A. Romero
+Titolo: Wampyr
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00355
+Genere: Orrore
+Durata: 85 min.
+Attori: John Amplas
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Martin è un ragazzo apparentemente normale. Tuttavia, il suo vecchio cugino è convinto che sia la personificazione del demonio...
+
+[ID = 5016]
+Regista: Marek Kanievska
+Titolo: Another Country
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00356
+Genere: Drammatico
+Durata: 90 min.
+Lingua: ITA, ING
+Attori: Rupert Everett, Colin Firth, Michael Jenn, Robert Addie, Rupert Wainwright ...
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Inghilterra, anni '30. In un college, orgoglio nazionale, vengono educati i rampolli delle famiglie dell'aristocrazia inglese. Dietro però si nascondono diverse ombre ...
+
+[ID = 5017]
+Regista: Stuart. Urban
+Titolo: Revelation
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00357
+Genere: Giallo
+Durata: 111 min.
+Attori: T. STAMP, N. WIGHTMAN
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: IL MILIONARIO MAGNUS MARTEL è A UN PASSO DALLA SCOPERTA PIù IMPORTANTE DELL'INTERA STORIA DEL GENERE UMANO:IL SEGRETO DEL LOCULUS,UNO DEI PIU' GRANDI MISTERI.IL SUO TEAM CERCA IL LUOGO DOVE è NASCOSTA L'ENIGMATICA SCATOLA E SVELARE ....
+
+[ID = 5018]
+Regista: David Bailey
+Titolo: The Intruder
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00358
+Genere: Giallo
+Durata: 93 min.
+Lingua: ITA, ING
+Attori: Nastassja Kinski,John Hannah, Charlotte Gainsbourg
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: In un stanza del commissariato di polizia, Catherine si prepara a raccontare agli agenti come, la notte precedente, abbia ucciso la prima moglie di suo marito, Stella....
+
+[ID = 5019]
+Regista: Duccio Tessari
+Titolo: Farfalla ( Una ) con le ali insanguinate
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00359
+Genere: Giallo
+Durata: 95 min.
+Lingua: ITA
+Attori: Helmut Berger, Giancarlo Sbragia, Silvano Tranquilli ....
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Condannato all'ergastolo per l'omicidio di una ragazza, è scarcerato dopo altri due omicidi identici. L'assassino poi gli telefona. Come giallo zoppica. D. Tessari punta tutto sugli effettacci...
+
+[ID = 5020]
+Regista: Richard Eyre
+Titolo: Iris - Un amore vero
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00360
+Genere: Drammatico
+Durata: 90 min.
+Lingua: ITA
+Attori: Kate Winslet ,Judi Danceh Jim Broadbent ...
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Il film narra la vita della celebre scrittrice e filosofa Iris Murdoch. E' anche la storia dell'amore, tutt'altro che sentimentale, tra lei e il marito John Bayley, ....
+
+[ID = 5021]
+Regista: Jane Campion
+Titolo: Smoke
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00361
+Genere: Drammatico
+Durata: 114 min.
+Attori: Harvey Keitel, Kate Winslet, Pam Grier, Paul Goddard, ...........
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Una giovane e bella ragazza Australiana (Kate Winslet), si reca in India alla ricerca di nuove avventure esotiche. Qui rimane affascinatta ....
+
+[ID = 5022]
+Regista: Roger Donaldson
+Titolo: Senza via di scampo
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00362
+Genere: Giallo
+Durata: 116 min.
+Lingua: ITA,ING
+Attori: Kevin Costner, Gene Hackman, Sean Young, Will Patton, Howard Duff, .......
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Tom farrel, tenente di vascello, viene incaricato di fare da tramite tra il Segretario alla Difesa, David Brice, e la CIA, ma scopre che Brice é l'amante di Susan Atwell, la donna a cui é legato ....
+
+[ID = 5023]
+Regista: Bob Rafelson
+Titolo: Vedova ( La ) Nera
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00363
+Genere: Giallo
+Durata: 98 min.
+Lingua: ITA,ING,FRA,TED,SPA,POL
+Attori: Debra Wingher Theresa Russell
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Una donna investiga su un'altra donna sospettata di essere una pluriuxoricida che sposa uomini ricchi e poi li avvelena, ereditandone le sostanze. Ma le due donne si assomigliano più di quel che sembra....
+
+[ID = 5024]
+Regista: James B. Rogers
+Titolo: Dimmi che non è vero
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00364
+Genere: Commedia
+Durata: 91 min.
+Lingua: ITA,ING
+Attori: Heather Graham, Chris Klein, Orlando Jones, Sally Field........
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Bob (Chris Klein) incontra una ragazza (Hether Graham) e i due si innamoranno follemente. La passione, però, viene bruscamente interrotta dal sospetto .....
+
+[ID = 5025]
+Regista: Jerry Zaks
+Titolo: Stanza ( La ) di Marvin
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00365
+Genere: Drammatico
+Durata: 98 min.
+Lingua: ITA,ING
+Attori: Meryl Streep, Leonardo DiCaprio, Diane Keaton, Robert De Niro,..
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Bessie, accudisce suo padre Marvin, costretto a letto a causa di un ictus. L'unico aiuto che ha, é quello dell'anziana zia Ruth e quindi Bessie sopporta con rassegnazione la sua vita.....
+
+[ID = 5026]
+Regista: Mel Books
+Titolo: Alta Tensione
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00366
+Genere: Comico
+Durata: 98 min.
+Lingua: ITA,ING,FRA,TED,SPA
+Attori: Madeline Kahn,
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: l'ex direttore di un ospedale psichiatrico scompare inspiegabilmente e il suo sostituto....
+
+[ID = 5027]
+Regista: Anthony Minghella
+Titolo: Mister Wonderful
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00367
+Genere: Commedia
+Durata: 95 min.
+Lingua: ITA
+Attori: Matt Dillon (Gus), Annabella Sciorra (Lee), Mary-Louise Parker (Rita), William Hurt (Tom), Vincent
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Chi non è alla ricerca di un Mister wonderful, una sorta di principe azzurro delle fiabe.....
+
+[ID = 5028]
+Regista: Ang Lee
+Titolo: Tigre ( La ) e il dragone
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00368
+Genere: Avventura
+Durata: 120 min.
+Lingua: ITA
+Attori: Yun-Fat Chow, Michelle Yeoh, Ziyi Zhang, Chen Chang.
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Li Mu Bai è un grande maestro conosciuto in tutta la Cina per le sue doti di guerriero e per la sua saggezza. Quando però decide di abbandonare la via della spada .....
+
+[ID = 5029]
+Regista: Krzysztof Kieslows
+Titolo: Film Blu : Tre colori
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00369
+Genere: Drammatico
+Durata: 97 min.
+Lingua: ITA
+Attori: Juliette Binoche,Benoit Regent, ....
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: In un incidente stradale, Julie perde il marito Patrice, un celebre compositore, e la piccola figlia Anna. Julie inizia così una nuova vita, anonima, indipendente, lasciandosi .....
+
+[ID = 5030]
+Regista: Peter Weir
+Titolo: Picnic ad Hanging Rock
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00370
+Genere: Avventura
+Durata: 110 min.
+Lingua: ITA,ING
+Attori: Rachel Roberts,Dominic Guard,Margaret Nelson,Vivean Gray, ...
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Nel 1900, durante la gita scolastica di un collegio australiano per fanciulle, tre ragazze e una insegnante si allontanano tra le rocce vulcaniche. Solo una ritorna, ferita e scioccata....
+
+[ID = 5031]
+Regista: Haruki  Kadokawa
+Titolo: Alexander - Cronache di guerra di Alessandro il grande
+Oggetto: animazione
+Supporto: DVD
+Collocazione: DVD 00371
+Genere: Storico
+Durata: 90 min.
+Lingua: ITA,GIAP
+Sottotitoli: NO
+Acquisizione: Acquisto
+

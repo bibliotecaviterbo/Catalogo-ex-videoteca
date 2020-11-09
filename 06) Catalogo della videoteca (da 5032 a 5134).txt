@@ -1,0 +1,1350 @@
+[ID = 5032]
+Regista: Guillermo Del Toro
+Titolo: Mimic
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00372
+Genere: Fantastico
+Durata: 101 min.
+Lingua: ITA,ING
+Attori: Mira Sorvino,Jeremy Northam
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Fantascienza. Una malattia letale rischia di uccidere tutti i bambini della terra, ma l'intervento di una biologa (Mira Sorvino) riesce a scongiurare la tragedia. Purtroppo lo stesso insetto
+
+[ID = 5033]
+Regista: Gregory Widen
+Titolo: Ultima (L') Profezia
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00373
+Genere: Orrore
+Durata: 94 min.
+Lingua: ITA,ING
+Attori: Emily Conforto, Adam Goldberg, Steve Hytner,
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Nel giorno in cui sta per essere ordinato sacerdote, Thomas Dagget, sconvolto da terrificanti visioni, abbandona la Chiesa. Dopo alcuni anni Dagget, ora poliziotto, deve occuparsi di un caso....
+
+[ID = 5034]
+Regista: Richard Benjamin
+Titolo: Pronti a tutto
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00374
+Genere: Drammatico
+Durata: 96 min.
+Lingua: ITA,ING,FRA,TED,SPA
+Attori: Robin D. Adler ,Rick Aiello ,Jeffrey P. Baggett , ...
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Il giovane e zelante poliziotto Alex Kearney, sempre scrupoloso nell'applicazione della legge, prestando servizio in un elegante e tranquillo quartiere di Filadelfia, osa fare contravvenzione ad un ricco e ..
+
+[ID = 5035]
+Regista: Clint Eastwood
+Titolo: Mezzanotte nel giardino del bene e del male
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00375
+Genere: Drammatico
+Durata: 149 min.
+Lingua: ING,FRA,ITA
+Attori: John Cusack, Kevin Spacey, Jack Thompson, Irma P. Hall, Jude Law, ....
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: John Kelso é un giornalista inviato dalla sua rivista a Savannah, per un servizio su un party natalizio molto famoso che si tiene ogni anno e organizzato da Jim Williams,...
+
+[ID = 5036]
+Regista: Jonathan Kaplan
+Titolo: Bad Girls
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00376
+Genere: Western
+Durata: 96 min.
+Lingua: ITA,ING;FRA,TED,SPA
+Attori: Drew Barrymore,Madeleine Stowe,Andie MacDowell,Mary Stuart Masterson
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Per difendere una collega da un cliente aggressivo, la prostituta Cody lo uccide. Braccata dall'Agenzia Pinkerton, al soldo della vedova, la ragazza fugge con tre amiche verso il Texas inseguendo il sogno ..
+
+[ID = 5037]
+Regista: Bob Dolman
+Titolo: Due amiche esplosive
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00377
+Genere: Commedia
+Durata: 96 min..
+Lingua: ITA,ING
+Attori: Goldie Hawn, Susan Sarandon, Geoffrey Rush, ...
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Due amiche per la pelle che facevano parte di un gruppo chiamato "The Banger Sisters" si rincontrano dopo alcuni decenni. Una di loro, Suzette ...
+
+[ID = 5038]
+Regista: Unesco
+Titolo: Eternal India
+Oggetto: documentario
+Supporto: DVD
+Collocazione: DVD 00378
+Genere: Avventura
+Lingua: ITA
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Le meraviglie del Mondo
+
+[ID = 5039]
+Regista: Blue Planet
+Titolo: Una Grande Enciclopedia del Mare
+Oggetto: documentario
+Supporto: DVD
+Collocazione: DVD 00379
+Genere: Avventura
+Durata: 150 min.
+Lingua: ITA,ING
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: prima parte : Le Maree - Seconda parte : Le Coste  Terza parte : Making Of
+
+[ID = 5040]
+Regista: -
+Titolo: Origine ( L' ) del Pianeta Terra
+Oggetto: documentario
+Supporto: DVD
+Collocazione: DVD 00380
+Genere: Avventura
+Durata: 85 min.
+Lingua: ITA
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Viaggio nella scienza
+
+[ID = 5041]
+Regista: National Geographic
+Titolo: Furia ( La ) della Natura
+Oggetto: documentario
+Supporto: DVD
+Collocazione: DVD 00381
+Genere: Avventura
+Durata: 75 min.
+Lingua: ITA
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Quando gli elementi si ribellano..
+
+[ID = 5042]
+Regista: Luis Mandoki
+Titolo: 24 Ore
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00382
+Genere: Giallo
+Durata: 99 min.
+Lingua: ITA,ING
+Attori: Charlize Theron, Kevin Bacon, Courtney Love, Stuart Townsend, Pruitt Taylor Vince, .
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: I coniugi Jennings si trovano costretti a seguire le spregevoli regole di pericolosi rapitori per salvare la loro figlioletta Abby...
+
+[ID = 5043]
+Regista: Yves Simoneu
+Titolo: Nuremberg
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00383
+Genere: Drammatico
+Lingua: ITA,ING
+Attori: Alec Baldwin, Brian Cox, Jill Hennessy, Michael Ironside, Christopher Plummer...
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Dopo la sconfitta della Germania nella seconda Guerra Mondiale, gli alleati iniziarono i processi contro diversi militari e civili nazisti, accusati di vari crimini contro i diritti umani.
+
+[ID = 5044]
+Regista: Antony Ascot
+Titolo: Quella Villa in fondo al Parco
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00384
+Genere: Orrore
+Durata: 78 min.
+Lingua: ITA
+Attori: Janet Agren,Eva Grimaldi, David Warbeck
+Vietato: 14
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Nei Caraibi una modella viene trovata uccisa. La sorella di questa parte per indagare sulle cause della morte e scopre una strana popolazione di uomini-topo.
+
+[ID = 5045]
+Regista: Elio Petri
+Titolo: Decima ( La ) Vittima
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00385
+Genere: Fantastico
+Durata: 90 min.
+Attori: Elsa Martinelli, Ursula Andress, Marcello Mastroianni
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: In un imprecisato futuro remoto, la guerrà è abolita ma l'aggressività degli esseri umani si scarica in uno sport particolare: la caccia legalizzata ad altri uomini. Ursula Andress, famosa ...
+
+[ID = 5046]
+Regista: Delmer Daves
+Titolo: Quel Treno per Yuma
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00386
+Genere: Western
+Durata: 96 min.
+Lingua: ITA
+Attori: Glenn Ford, Van Heflin ,Felicia Farr, Leora Dana ,Richard Jaeckel
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Ben Waden, pericoloso fuorilegge, assalta una diligenza e s'impadronisce di una forte somma di denaro. Alla scena assiste Dan Evans, un povero contadino, il quale preoccupato com'è per ...
+
+[ID = 5047]
+Regista: Gérard Krawczyk
+Titolo: Wasabi
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00387
+Genere: Drammatico
+Durata: 94
+Lingua: ITA,FRA
+Attori: Jean Reno, Ryoko Hirosue, Carole Bouquet.
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Hubert è un ispettore di polizia dal cuore tenero ma dai modi un pò rudi. Dopo aver involontariamente cambiato i connotati del figlio del Prefetto, il Commissario gli suggerisce di prendersi un pò di vacanze.
+
+[ID = 5048]
+Regista: Robert Towne
+Titolo: Tequila Connetion
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00388
+Genere: Poliziesco
+Durata: 116 min.
+Lingua: ITA,ING,FRA
+Attori: Mel Gibson, Michelle Pfeiffer, Kurt Russell
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: della sezione narcotici della polizia di Los Angeles, è sulle tracce di Dale Mc Kussic (detto Mac), trafficante di droga e suo ex compagno di liceo. Mac vuole uscire dal giro della droga ....
+
+[ID = 5049]
+Regista: Ruggero Deodato
+Titolo: CANNIBAL HOLOCAUST
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00389
+Genere: Orrore
+Lingua: ITA
+Attori: Francesca Ciardi, Luca Barbareschi, Robert Kerman, Perry Perkamen, .....
+Vietato: 18
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Cinque giornalisti americani, inviati nell'Amazzonia per indagare su una tribù di cannibali, scompaiono senza lasciare traccia della loro indagine.  Un reporter viene incaricato, per conto di ....
+
+[ID = 5050]
+Regista: Robert Voskanian
+Titolo: Casa ( La ) degli Zombi
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00390
+Genere: Orrore
+Durata: 82 min.
+Lingua: ITA
+Attori: Laurel Barnett ,  Richard Hanners,Rosalie Cole , .....
+Vietato: 14
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Rosalie, dopo l'incidente con l'auto, cammina per i boschi dove viene sorpresa da un cane. In un iniziale primo piano la ragazza accenna molto chiaramente (e logicamente!) a voltarsi; stacco ..
+
+[ID = 5051]
+Regista: David Grieco
+Titolo: Evilenko
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00391
+Genere: Drammatico
+Durata: 106
+Lingua: ITA,ING
+Attori: Malcolm McDowell, Marton Csokas, Frances Barber, Ronald Pickup, ....
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: La vera storia di Andrej Romanov Cikatilo, soprannominato il mostro di Rostok, per aver ucciso e divorato, nell'arco di dodici anni, più di cinquanta bambini e adolescenti di ambo i sessi, condannato a morte e giustiziato il 14 febbraio 1994
+
+[ID = 5052]
+Regista: Franco Nucci
+Titolo: Stangata in Famiglia
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00392
+Genere: Commedia
+Durata: 90 min.
+Lingua: ITA
+Attori: Lino Banfi, Femi Benussi, Piero Mazzarella, Gabriella Golia, Helen Chanel, . . .
+Vietato: 14
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Il commendatore Brambilla, vedovo, è costretto a mantenere oltre le figlie Pina e Mariuccia, anche il cognato Nicola e sua figlia Sabina, immigrati dal Sud. Desideroso di migliorare la propria situazione,.
+
+[ID = 5053]
+Regista: Michele Massimo Tarantini
+Titolo: Insegnante ( L' ) viene a casa
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00393
+Genere: Commedia
+Durata: 90 min.
+Lingua: ITA
+Attori: Edwige Fenach ,Renzo Montagnani ,Alvaro Vitali, Lino Banfi, Marco Gelardini,
+Sottotitoli: NO
+Abstract: L'insegnante di piano Luisa De Dominicis si trasferisce da Milano a Lucca, dove risiede l'uomo di cui è innamorata, l'assessore comunale Ferdinando Bonci-Marinotti. La donna, che lo crede scapolo, . .
+
+[ID = 5054]
+Regista: Umberto Lenzi
+Titolo: Milano odia: La Polizia non può sparare
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00394
+Genere: Poliziesco
+Durata: 95 min.
+Lingua: ITA,ING
+Attori: Tomas Milian,Henry Silva
+Vietato: 14
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Dopo aver sequestrato una ragazza, un sadico criminale ne provoca la morte con la propria brutalità: un commissario di polizia, che si sente le mani legate dalla legge, si licenzia e . . .
+
+[ID = 5055]
+Regista: Mariano Laurenti
+Titolo: INFERMIERA (L’) DI NOTTE
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00395
+Genere: Commedia
+Durata: 95 min.
+Lingua: ITA
+Attori: Gloria Guida, Alvaro Vitali, Lino Banfi, Paola Senatore, Mario Carotenuto, . . .
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Una procace infermiera deve vegliare un vecchio porcellone e intanto si fa il figlio di un dentista arrapato. Immedicabile farsa greve e scollacciata del periodo...
+
+[ID = 5056]
+Regista: Giuseppe Colizzi
+Titolo: Quattro ( I ) dell'Ave Maria
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00396
+Genere: Western
+Durata: 126 min.
+Lingua: ITA
+Attori: Eli Wallach; Terence Hill; Bud Spencer; Brock Peters; Kevin McCarthy; . . . .
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Cacopulos, appena uscito di prigione, deruba i due pistoleri Cat e Hutch che, in cerca di vendetta, si mettono sulle sue tracce. Cacopulos è alla ricerca di Drake, uno dei suoi vecchi compari che ....
+
+[ID = 5057]
+Regista: Manoel de Oliveira
+Titolo: Film ( Un ) Parlato
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00397
+Genere: Drammatico
+Durata: 96 min.
+Lingua: ITA,PORT,FRA,SPA,ING
+Attori: Leonor Silveira, John Malkovich, Catherine Deneuve, Stefania Sandrelli, Irene Papas, Luis Miguel Cintra
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Durante una crociera nel Mediterraneo, per raggiungere il marito in India a Bombay, Rosa Maria, una giovane professoressa di storia, visita . . .
+
+[ID = 5058]
+Regista: Neil Jordan
+Titolo: Triplo Gioco
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00398
+Genere: Drammatico
+Durata: 108 min.
+Lingua: ITA,ING
+Attori: Nick Nolte, Tchéky Karyo, Saïd Taghmaoui, Nutsa Kukhianidze, Gary Oldman, Marc Lavoine,
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Bob Montagnet è un americano, giocatore, ladro ed eroinomane. Quando Bob perde anche gli ultimi soldi alle corse, il suo amico Raoul gli suggerisce di unirsi a lui per portare a termine una . . .
+
+[ID = 5059]
+Regista: Jack Sholder
+Titolo: NIGHTMARE 2
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00399
+Genere: Orrore
+Durata: 82 min.
+Lingua: ITA,ING
+Attori: Mark Patton, Kim Myers, Robert Rusler, Clu Gulager, Robert Englund
+Vietato: 14
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Uno dei più brutti sequel della sotria del cinema...vi ricordate il fascino immenso é terrorizzante del capolavoro di Craven? Beh se vi accingerete a guardare questo dimenticatevene...
+
+[ID = 5060]
+Regista: Finson
+Titolo: Personal Trainer
+Oggetto: documentario
+Supporto: DVD
+Collocazione: DVD 00400
+Durata: 60 min.
+Lingua: ITA
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Gli esercizi,gli sport,la dieta per mantenersi in forma
+
+[ID = 5061]
+Regista: MICHAEL  APTED
+Titolo: GORKY PARK
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00401
+Genere: Giallo
+Durata: 125 min.
+Attori: IAN  BANNEN,BRIAN  DENNEHY ,MICHAEL  ELPHICK
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Quando, in una gelida mattina moscovita, il giovane ispettore della polizia criminale Arkadi Renko viene chiamato nel Parco Gorky, si trova davanti a tre corpi semisepolti nella neve: due uomini . . . .
+
+[ID = 5063]
+Regista: Olivier Assayas
+Titolo: Demonlover
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00402
+Genere: Giallo
+Durata: 129 min.
+Lingua: ITA,FRA
+Attori: Connie Nielsen, Chloe Sevigny , Charles Berling , Gina Gershon , Julie Brochen
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Diane è una giovane donna che lavora per una multinazionale guidata da Henri-Pierre Volf. Nella logica della diversificazione delle attività, dal campo immobiliare alla moda - il Gruppo Volf . . .
+
+[ID = 5064]
+Regista: Ken Lonergan
+Titolo: Conta su di Me
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00403
+Genere: Commedia
+Durata: 109 min.
+Lingua: ITA,ING
+Attori: Betsy Aidem, Michael Countryman, Matthew Broderick,
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Sammy e Terry Prescott, rimasti orfani da piccoli, sono due fratelli con un forte legame. Crescendo ognuno va per la propria strada, Sammy è divorziata e ha un figlio, .....
+
+[ID = 5065]
+Regista: Mario Monicelli.
+Titolo: Casanova '70
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00404
+Genere: Commedia
+Durata: 107 min.
+Lingua: ITA
+Attori: Enrico Maria Salerno, Margaret Lee, Marcello Mastroianni, Virna Lisi,  . . .
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Andrea, ufficiale della Nato, parte per una vacanza di riposo in montagna consigliatagli dallo psicanalista, che gli ha rimproverato l'eccessiva frenesia .....
+
+[ID = 5066]
+Regista: Michelangelo Antonioni
+Titolo: Identificazione di una Donna
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00405
+Durata: 155 min.
+Lingua: ITA
+Attori: Pierfrancesco Aiello, Christine Boisson, Marcel Bozzuffi , Arianna De Rosa, . .
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Protagonista è un cineasta, sui 40 anni, Niccolò, il quale vive a Roma. E' alla ricerca di una protagonista femminile e incontra Mavi, una giovane aristocratica, piuttosto bizzarra e, a suo modo . .
+
+[ID = 5067]
+Regista: Gus Van Sant
+Titolo: Elephant
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00406
+Genere: Drammatico
+Durata: 81 min.
+Lingua: ITA,ING
+Attori: Timothy Bottoms, Matt Malloy, Eric Deulen, Alex Frost, Elias McConnell
+Vietato: 14
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Il nuovo film di Gus Van Sant racconta la vita di alcuni studenti di un liceo americano, lavorando con veri studenti di liceo, per fornire un ritratto degli ....
+
+[ID = 5068]
+Regista: Bent Hamer
+Titolo: Kitchen Stories
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00407
+Genere: Commedia
+Durata: 92 min.
+Lingua: ITA,NOR,SVED
+Attori: Joachim Calmeyer, Tomas Norström
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Nell'immediato dopoguerra alcuni esperti svedesi si stabiliscono in un villaggio della Norvegia famoso per il numero di scapoli in eccesso. Il loro . . .
+
+[ID = 5069]
+Regista: Clint Eastwood
+Titolo: Mystic River
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00408
+Genere: Drammatico
+Durata: 132 min.
+Lingua: ITA
+Attori: Sean Penn, Tim Robbins, Kevin Bacon, Laurence Fishburne, Marcia Gay Harden, ..
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Jimmy, Dave, Sean, da bambini erano tre inseparabili amici. Ora la tragica morte della figlia di uno di loro li riunisce e Sean che ora fa il poliziotto ha il compito di indagare sul caso..
+
+[ID = 5070]
+Regista: Pietro Germi
+Titolo: Divorzio all'italiana
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00409
+Genere: Commedia
+Durata: 101 min.
+Lingua: ITA
+Attori: Daniela Rocca ,Stefania Sandrelli,Leopoldo Trieste
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Un barone siciliano, Ferdinando Cefalù, si innamora di Angela, una cugina sedicenne da cui peraltro è ricambiato. L'unico ostacolo è rappresentato dalla moglie di Ferdinando, Rosalia, una donna ...
+
+[ID = 5071]
+Regista: Brad Silberling
+Titolo: Serie ( Una ) di sfortunati eventi
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00444
+Genere: Commedia
+Durata: 108 min.
+Lingua: ITA,ING
+Attori: Jim Carrey, Meryl Streep, Emily Browning, Liam Aiken
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Tratto da una serie per bambini di pervasivo e smodato successo, 'Lemony Snicket - Una serie di sfortunati eventi' viene lanciato come una specie di anti- Harry Potter , ....
+
+[ID = 5072]
+Regista: -
+Titolo: DIABOLIK - Track of the panther
+Oggetto: animazione
+Supporto: DVD
+Collocazione: DVD 00410
+Genere: Fantastico
+Durata: 60 min.
+Lingua: ITA
+Sottotitoli: NO
+Acquisizione: Acquisto
+
+[ID = 5073]
+Regista: Chuck Russell
+Titolo: NIGHTMARE 3- I Guerrieri del sogno
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00411
+Genere: Orrore
+Durata: 93 min.
+Lingua: ITA,ING
+Attori: Heather Langenkamp, Craig Wasson, Patricia Arquette, Robert Englund
+Vietato: 14
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Dopo l'imbarazzante Nightmare 2 la serie del mostro di Elm Street riprende quota in modo repentino, facendo una graditissima sorpresa . . .
+
+[ID = 5074]
+Regista: Jim Wynorski
+Titolo: Tuono Nel Deserto
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00412
+Genere: Guerra
+Durata: 83 min.
+Lingua: ITA,ING
+Attori: Daniel Baldwin,Richard Tyson,Tim Abell,Marc Casabani
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: L'ufficiale Lee Miller (Daniel Baldwin) viene richiamato in fretta dal suo congedo anticipato per infiltrarsi in Iraq e neutralizzare una terribile arma batteriologica che potrebbe essere letale . .
+
+[ID = 5075]
+Regista: Andrew Davis
+Titolo: Uccidete la Colomba Bianca
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00413
+Genere: Giallo
+Durata: 108 min.
+Lingua: ITA,ING
+Attori: Ray Allen ,Joanna Cassidy , Kevin Crowley
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Mentre nei dintorni di Berlino si svolge un incontro diplomatico russo-americano ad alto livello - preparatorio di un vertice indetto a Chicago fra il Presidente degli Stati Uniti ed il Segretario . . .
+
+[ID = 5076]
+Regista: Leonardo Ricagni
+Titolo: Grande ( La ) sfida
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00414
+Genere: Poliziesco
+Durata: 90 min.
+Lingua: ITA,ING
+Attori: Chris O'Donnell , Jeremy Davies , Jon Polito
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Una cameriera apparentemente ingenua, un sanguinario killer, un poliziotto disonesto, un furbo indiano, uno sceriffo tonto, un guardone e un playboy vagabondo sono alla ricerca di una borsa . .
+
+[ID = 5077]
+Regista: James Isaac
+Titolo: MALE ( Il ) NON MUORE MAI
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00415
+Genere: Orrore
+Durata: 93 min.
+Lingua: ITA,ING
+Attori: Kane Hodder  Lexa Doig  Lisa Ryder  Jonathan Potts  Noel Cunningham
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Nel futuro la Terra non e' piu' abitabile e gli umani hanno colonizzato lo spazio. Una colonia riceve due corpi congelati criogenicamente e li scongela. Ma uno dei due appartiene . . .
+
+[ID = 5078]
+Regista: Jonas McCord
+Titolo: Body ( The )
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00416
+Genere: Drammatico
+Durata: 104 min.
+Lingua: ITA,ING
+Attori: Antonio Banderas,Olivia Williams ,John Wood , . . .
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: L'archeologa Sharon Golban scopre il cadavere di un uomo crocifisso, sepolto in una tomba risalente al I secolo d.C. vicino a Gerusalemme. Potrebbero essere le spoglie di Gesù Cristo, così il Vaticano manda ..
+
+[ID = 5079]
+Regista: Kevin Hooks
+Titolo: Passenger 57
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00417
+Genere: Poliziesco
+Durata: 84 min.
+Lingua: ITA,ING,FRA
+Attori: wesley snipes, bruce payne, tom sizemore
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: SECONDO LA FAA (FEDERAL AVIATION AGENCY) VIAGGIARE IN AEREO è IL METODO PIù SICURO. EVIDENTEMENTE NON HANNO CONSIDERATO L'EVENTUALITà DI AVERE CHARLES RANE A BORDO
+
+[ID = 5080]
+Regista: Peter Hyams
+Titolo: Timecop - Indagine dal Futuro
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00418
+Genere: Poliziesco
+Durata: 100 min.
+Lingua: ITA,ING
+Attori: Jean-Claude ,Van Damme Mia Sara,Ron Silver , Bruce McGill
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Nel 2004, la commissione di Controllo del tempo tenta di impedire i viaggi in una precedente dimensione temporale resi possibili da un'invenzione che alcuni criminali stanno usando per compiere . .
+
+[ID = 5081]
+Regista: Norman Jewison
+Titolo: Agnese di Dio
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00419
+Genere: Drammatico
+Durata: 95 min.
+Lingua: ITA,ING,FRA,SPA,TED
+Attori: Jane Fonda , Anne Bancroft , Meg Tilly , Anne Pitoniak
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: A Montreal, una notte, grida laceranti rompono la pace di un convento di clausura, quello delle Piccole Suore di Santa Maria Maddalena. Accorsa nella cameretta della giovanissima suor Agnese, . .
+
+[ID = 5082]
+Regista: HOWARD  ZIEFF
+Titolo: MIO ( IL )PRIMO BACIO
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00420
+Genere: Commedia
+Lingua: ITA,ING,FRA,SPA,TED
+Attori: Dan Aykroyd, Jamie Lee, Anna Chlumsky, . .
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: A. Madison, in Pennsylvania, Vada Sultenfuss, 13 anni, viene col padre Harry, che ha un'agenzia di onoranze funebri, e la matrigna Shelly, che aspetta un figlio. La crisi per l'arrivo di una nuova . .
+
+[ID = 5083]
+Regista: -
+Titolo: Batman - Racconti del Cavagliere della notte
+Oggetto: animazione
+Supporto: DVD
+Collocazione: DVD 00421
+Durata: 88 min.
+Lingua: ITA,ING
+Sottotitoli: SI
+Acquisizione: Acquisto
+
+[ID = 5084]
+Regista: -
+Titolo: Batman - Ritorno all'azione
+Oggetto: animazione
+Supporto: DVD
+Collocazione: DVD 00422
+Durata: 86 min.
+Lingua: ITA,.ING
+Sottotitoli: SI
+Acquisizione: Acquisto
+
+[ID = 5085]
+Regista: bbc
+Titolo: Prime ( Le ) forme di vita sulla Terra
+Oggetto: documentario
+Supporto: DVD
+Collocazione: DVD 00423
+Durata: 50 min.
+Lingua: ITA
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Viaggio nella Scienza
+
+[ID = 5086]
+Regista: Pier Francesco Pingitore
+Titolo: tifoso ( Il ), l'arbitro e il calciatore
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00424
+Genere: Commedia
+Durata: 93 min.
+Lingua: ITA
+Attori: Pippo Franco; Alvaro Vitali
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Due episodi ambientato nel mondo del calcio: un arbitro crede che la propria moglie lo tradisca con un calciatore; un romanista si finge laziale per accontentare il suocero, ma durante il derby viene .
+
+[ID = 5087]
+Regista: Andrew Bergman
+Titolo: Striptease
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00425
+Genere: Commedia
+Durata: 115 min.
+Attori: Demi Moore, Burt Reynolds, Armand Assante, Ving Rhames, . .
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Per riavere il figlio affidato dal tribunale all'ex marito, Erin Grant ha bisogno di molti soldi per una nuova causa. Decide allora di esibirsi in . .
+
+[ID = 5088]
+Regista: Sean Penn
+Titolo: 3 Giorni per la Verità
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00426
+Genere: Giallo
+Durata: 107 min.
+Lingua: ITA,ING
+Attori: Jack Nicholson   Angelica Huston   David Morse   Robin Wright
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Storia della vita divisa in due di una coppia sconvolta dall'assassinio dell'amata figlia e del senso di colpa che angoscia il suo uccisore..
+
+[ID = 5089]
+Regista: Robert Altman
+Titolo: Conflitto D'interessi
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00427
+Genere: Giallo
+Durata: 114 min.
+Lingua: ITA,ING
+Attori: Kenneth Branagh , Embeth Davidtz , Robert Downey, Daryl Hannah
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Una sera a Savannah, città umida e afosa dove sta per abbattersi l'uragano chiamato Gerardo, Rick Magruder, avvocato di successo separato con due figli piccoli, . .
+
+[ID = 5090]
+Regista: Clint Eastwood
+Titolo: Bronco Billy
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00428
+Genere: Commedia
+Durata: 112 min.
+Lingua: ITA
+Attori: Clint Eastwood,Scatman Crothers, . .
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Allegre disavventure di uno scalcinato circo basato sui miti del pionierismo. Tutto dipende dalle spericolate e divertenti esibizioni di Clint Eastwood, cavallerizzo pistolero, . .
+
+[ID = 5091]
+Regista: -
+Titolo: Viterbo cinema
+Oggetto: documentario
+Supporto: DVD
+Collocazione: DVD 00429
+Lingua: ITA
+Sottotitoli: NO
+Acquisizione: Dono
+
+[ID = 5092]
+Regista: Andy Tennant
+Titolo: Hitch - Lui si che capisce le donne
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00430
+Genere: Commedia
+Durata: 113 min.
+Lingua: ITA,ING,UNG
+Attori: Will Smith, Eva Mendes, Kevin James, Amber Valletta, Michael Rapaport
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Alex Hitchens, per tutti "Hitch", nella vita aiuta gli uomini a rimorchiare le donne. Sa ogni risposta a tutte le domande che gli uomini si fanno per piacere alle donne....
+
+[ID = 5093]
+Regista: John Sayles
+Titolo: Stella solitaria
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00431
+Genere: Drammatico
+Durata: 130 min.
+Lingua: ITA,ING,FRA
+Attori: Kris Kristofferson, Matthew McConaughey , Chris Cooper , Elizabeth Pena
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: In un poligono abbandonato nel deserto a sud del Texas vengono trovati un anello massonico, un distintivo da sceriffo e un teschio .....
+
+[ID = 5094]
+Regista: Peter Cattaneo
+Titolo: Full Monty
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00432
+Genere: Commedia
+Durata: 91 min.
+Lingua: ITA,ING,FRA
+Attori: Robert Carlyle, Tom Wilkinson , Mark Addy , William Snape , Steve Huison
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: A Sheffield, maggior centro siderurgico britannico, sono finiti i bei tempi degli anni '60. Acciaierie e fabbriche hanno chiuso i battenti, il lavoro si è automatizzato e molti operai sono . . .
+
+[ID = 5095]
+Regista: Istituto Luce
+Titolo: Novecento - Gli Atlantici
+Oggetto: documentario
+Supporto: DVD
+Collocazione: DVD 00433
+Genere: Storico
+Argomenti: La leggendaria trasvolata del 1933
+Durata: 80 min.
+Lingua: ITA,ING
+Sottotitoli: SI
+Acquisizione: Acquisto
+
+[ID = 5096]
+Regista: Adam Shankman
+Titolo: Pacifier (The ) - Missione Tata
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00434
+Genere: Commedia
+Durata: 92 min.
+Lingua: ITA,ING
+Attori: Vin Diesel, Lauren Graham, Faith Ford, Brittany Snow, . . . .
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: L'agente sotto copertura Shane Wolf, per redimersi, accetta di prendersi cura dei figli dell'uomo che lui non è riuscito a proteggere.
+
+[ID = 5097]
+Regista: Abel Ferrara
+Titolo: Occhi di serpente
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00435
+Genere: Drammatico
+Durata: 106 min.
+Lingua: ITA,ING
+Attori: Harvey Keitel, Madonna, James Russo, Nancy Ferrara, Reilly Murphy, . .
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Dopo una snervannte ricerca di finanziatori per un progetto: la storia di un matrimonio in crisi nell'alta borghesia newyorkese, un regista ....
+
+[ID = 5098]
+Regista: Steve Trenbirth
+Titolo: Libro ( Il ) della Giungla 2
+Oggetto: animazione
+Supporto: DVD
+Collocazione: DVD 00436
+Durata: 75 min.
+Lingua: ITA,ING
+Attori: VOCI: Haley Joel Osment, John Goodman, Tony Jay, Bob Joles, Phil Collins
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Mowgli decide di abbandonare il villaggio in cui vive per tornare nella giungla con i suoi amici. Ma la tigre Shere Khan ha ancora qualcosa in sospeso con Mowgli dall'ultima .....
+
+[ID = 5100]
+Regista: Po-Chih Leong
+Titolo: Brivido di sangue
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00438
+Genere: Giallo
+Durata: 98 min.
+Lingua: ITA,ING
+Attori: Jude Law, Elina Löwensohn, Timothy Spall, Jack Davenport
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Steven è bello e talentuoso ed è un esperto nel sedurre le donne. La sua però è una ricerca della donna perfetta, quella che riuscirà a tenergli testa. Finalmente incontra Anna, sembra ....
+
+[ID = 5101]
+Regista: Rob Schmidt
+Titolo: Wrong Turn
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00439
+Genere: Orrore
+Durata: 84 min.
+Lingua: ITA,ING
+Attori: Desmond Harrington, Eliza Dushku, Emmanuelle Chriqui, Jeremy Sisto
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Un gruppo di cinque giovani rimangono bloccati in una foresta del West Virginia. Da quel momento diventano preda ....
+
+[ID = 5102]
+Regista: -
+Titolo: Tornado
+Oggetto: documentario
+Supporto: DVD
+Collocazione: DVD 00440
+Durata: 60 min.
+Lingua: ITA,ING
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Con un vortice che raggiunge una velocità di 500 chilometri all'ora i tornado più violenti . .
+
+[ID = 5103]
+Regista: John McNaughton
+Titolo: Crocevia per l'Inferno
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00441
+Genere: Giallo
+Durata: 98 min.
+Lingua: ITA
+Attori: Ashley Judd, Luke Perry, Bruce A. Young, Jim True-Frost, Edmund
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Chris, fa il poliziotto senza troppe ambizioni e cerca di risparmiare qualcosa per costruirsi una famiglia .....
+
+[ID = 5104]
+Regista: -
+Titolo: Quando il Mondo sfiorò la catastrofe
+Oggetto: documentario
+Supporto: DVD
+Collocazione: DVD 00442
+Durata: 100 min.
+Lingua: ITA
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Da hiroshima alla guerra fredda..
+
+[ID = 5105]
+Regista: Massimo Venier
+Titolo: Tu la conosci Claudia?
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00443
+Genere: Commedia
+Durata: 94 min.
+Lingua: ITA
+Attori: Aldo Baglio, Giovanni Storti, Giacomo Poretti, Paola Cortellesi, . . .
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Giovanni è un uomo metodico e ripetitivo. E’ sposato con Claudia e considera questa unione un fortunato miracolo. Aldo è un tassista che si innamora di continuo. . . .
+
+[ID = 5107]
+Regista: -
+Titolo: Cavalieri (I ) la Morte il Diavolo
+Oggetto: documentario
+Supporto: DVD
+Collocazione: DVD 00445
+Durata: 52 min.
+Lingua: ITA
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: I tornei,la guerra e l'amor cortese
+
+[ID = 5108]
+Regista: -
+Titolo: Padroni, Contadini e Servi
+Oggetto: documentario
+Supporto: DVD
+Collocazione: DVD 00446
+Durata: 52 min.
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Campagne, villaggi, castelli: vita e società del Medioevo
+
+[ID = 5109]
+Regista: -
+Titolo: Banchieri, Mercanti, Viaggiatori
+Oggetto: documentario
+Supporto: DVD
+Collocazione: DVD 00447
+Durata: 52 min.
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: La vita nelle città Medievali
+
+[ID = 5110]
+Regista: -
+Titolo: Specie ( Le ) animali in lotta per la sopravvivenza
+Oggetto: documentario
+Supporto: DVD
+Collocazione: DVD 00448
+Durata: 49 min.
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Viaggio nella scienza
+
+[ID = 5111]
+Regista: -
+Titolo: Nati per volare: dai Dinosauri agli Uccelli
+Oggetto: documentario
+Supporto: DVD
+Collocazione: DVD 00449
+Durata: 49 min.
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Viaggio nella scienza
+
+[ID = 5112]
+Regista: -
+Titolo: Dall'ambiente acquatico alla conquista della terraferma
+Oggetto: documentario
+Supporto: DVD
+Collocazione: DVD 00450
+Durata: 50 min.
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Viaggio nella scienza
+
+[ID = 5113]
+Regista: Sidney Lumet
+Titolo: Assassinio sull'Orient Express
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00451
+Genere: Giallo
+Durata: 122 min.
+Lingua: ITA,ING,SPA
+Attori: Richard Widmark, Ingrid Bergman, Lauren Bacall, .....
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Il Detective più famoso del mondo, è in viaggio a bordo ...
+
+[ID = 5114]
+Regista: John Guillermin
+Titolo: ASSASSINIO SUL NILO
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00452
+Genere: Giallo
+Durata: 134 min
+Lingua: ITA,ING,TED
+Attori: Peter Ustinov, Jane Birkin, Bette Davis, Mia Farrow, . .
+Sottotitoli: SI
+Acquisizione: Acquisto
+
+[ID = 5115]
+Regista: Giuliano Carnimeo
+Titolo: Signora ( La ) gioca bene a scopa?
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00453
+Genere: Commedia
+Durata: 90 min.
+Lingua: ITA
+Attori: Lia Tanzi, Oreste Lionello , Edwige Fenech
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Il gestore di un negozio di scarpe è un accanito giocatore di poker, ma perde quasi sempre. Per avere dei soldi decide di fare lo squillo. G. ...
+
+[ID = 5116]
+Regista: -
+Titolo: Stanlio & Onlio - Le migliori Comiche
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00454
+Genere: Commedia
+Durata: 73 min.
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: TITOLI CONTENUTI: Il fantasma stregato - Questione d'onore - L'Eredità - La sposa Rapita
+
+[ID = 5117]
+Regista: Gabriele Muccino
+Titolo: Ricordati di me
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00455
+Genere: Commedia
+Durata: 120 min.
+Lingua: ITA
+Attori: Monica Bellucci, Fabrizio Bentivoglio, Laura Morante, . . .
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Volevano diventare qualcuno. Giulia una grande attrice e Carlo uno scrittore di romanzi. Poi sono arrivati i figli e anno dopo anno i sogni di gloria hanno dovuto lasciare il passo ad una vita . . .
+
+[ID = 5118]
+Regista: David R. Ellis
+Titolo: Final destination 2
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00456
+Genere: Orrore
+Durata: 87 min.
+Lingua: ITA,ING
+Attori: A.J. Cook, Michael Landes, Ali Larter
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: In macchina con un gruppo di amici, Kimberly ha una premonizione che li salva da un incidente mortale . .
+
+[ID = 5119]
+Regista: John Huston
+Titolo: Fuga per la Vittoria
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00457
+Genere: Drammatico
+Durata: 110 min.
+Lingua: ITA,ING
+Attori: Max Von Sydow, Michael Caine , Sylvester Stallone , . . .
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: In un campo di concentramento tedesco per prigionieri di guerra, l'ufficiale nazista Von Steiner riconosce nel recluso Colby un famoso giocatore di calcio inglese . .
+
+[ID = 5120]
+Regista: Davide Ferrario
+Titolo: Dopo Mezzanotte
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00458
+Genere: Drammatico
+Durata: 88 min.
+Lingua: ITA
+Attori: Giorgio Pasotti, Francesca Inaudi, Fabio Troiano,
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Martino (Giorgio Pasotti) è il custode notturno della Mole Antonelliana, si è ricavato una specie di casa da un locale abbandonato dentro il corpo dell'edificio e lì passa le sue giornate . . .
+
+[ID = 5121]
+Regista: George Iida
+Titolo: Spiral ( The )
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00459
+Genere: Orrore
+Durata: 98 min.
+Lingua: ITA,GIA
+Attori: Choiki Stato,Miki Nakatami, . .
+Sottotitoli: SI
+Acquisizione: Acquisto
+
+[ID = 5122]
+Regista: Michael Mayer
+Titolo: Casa ( Una ) alla fine del Mondo
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00460
+Genere: Commedia
+Lingua: ITA,ING
+Attori: Colin Farrell, Robin Wright Penn, Sissy Spacek, Dallas Roberts
+Vietato: 14
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Jonathan e Bobby crescono insieme a Cleveland, diventano amanti nell'adolescenza, per poi separarsi durante gli anni del college. Si ritrovano anni ....
+
+[ID = 5123]
+Regista: Michael Cimino
+Titolo: Anno ( L' ) del Dragone
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00461
+Genere: Giallo
+Durata: 129 min.
+Lingua: ITA,ING,FRA,TED
+Attori: Mickey Rourke, John Lone, Ariane, Leonard Termo,
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: New York. Il capitano di polizia Stanley White, si trova da solo a dover fronteggiare le lotte interne della mafia cinese. Contro di lui anche un muro di omertà . . .
+
+[ID = 5124]
+Regista: Anthony Russo, Joe Russo
+Titolo: Welcome To Collinwood
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00462
+Genere: Commedia
+Durata: 86 min.
+Lingua: ITA,ING
+Attori: William H. Macy, Luis Guzmán, Sam Rockwell, Michael Jeter, Isaiah Washington, .
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Cosimo, un ladruncolo di periferia, in prigione per furto, si fa confidare da un compagno di cella un piano per il colpo perfetto - il tipo di colpo che tutti i ladri sognano, il tipo di colpo . .
+
+[ID = 5125]
+Regista: MICHELE MASSIMO TARANTINI
+Titolo: Liceale ( La )
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00463
+Genere: Commedia
+Durata: 91 min.
+Lingua: ITA
+Vietato: 14
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: FIGLIA DI GENITORI SEPARATI E IMMATURI, LOREDANA, LICEALE GIOVANE E ACERBA, ECCITA PROFESSORI E COMPAGNI: MA ARRIVA CHI APPROFITTA DI LEI E POI LA PIANTA IN ASSO. . .
+
+[ID = 5126]
+Regista: Tim Blake Nelson
+Titolo: "O" come Otello
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00464
+Genere: Drammatico
+Durata: 95 min.
+Attori: Mekhi Phifer, Josh Hartnett, Julia Stiles, Rain Phoenix, . .
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Il campo da basket di un liceo fa da sfondo a questa rielaborazione in chiave moderna dell'Otello di William Shakespare. Odin si lascia convincere . .
+
+[ID = 5127]
+Regista: Tim Burton
+Titolo: Big Fish
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00465
+Genere: Drammatico
+Durata: 120 min.
+Lingua: ITA,ING,UNG
+Attori: Ewan McGregor, Albert Finney, Billy Crudup, Jessica Lange, . .
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: William Bloom (Billy Crudyp) sta cercando di conoscere meglio la storia del padre morto, grazie a tutte le storie che è riuscito a mettere insieme . .
+
+[ID = 5128]
+Regista: Hideo Nakata
+Titolo: Dark Water
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00466
+Genere: Orrore
+Durata: 101 min.
+Lingua: ITA,GIA
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Il matrimonio di Dahlia Williams è ormai finito e lei, dopo il divorzio, ha deciso di lasciarsi tutto alle spalle e di dedicarsi unicamente alla figlia . .
+Note: SMARRITO
+
+[ID = 5129]
+Regista: -
+Titolo: Stanlio & Onlio
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00467
+Genere: Commedia
+Durata: 58 min.
+Lingua: ITA
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Titoli contenuti: Vent'anni dopo - Ricconi
+
+[ID = 5130]
+Regista: H. CLOUZOT
+Titolo: Diabolici ( I )
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00468
+Genere: Giallo
+Durata: 110 min.
+Lingua: ITA,FRA
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: La moglie e l'amante del direttore di un collegio per ragazzi si accordano per uccidere l'uomo dispotico e arrogante . .
+
+[ID = 5131]
+Regista: Stephen Hopkins
+Titolo: Nightmare 5 - Il mito
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00469
+Genere: Orrore
+Durata: 86 min.
+Lingua: ITA,ING
+Attori: Erika Anderson, Lisa Wilcox, Whitby Hertford
+Vietato: 14
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Alice aspetta un bambino e rifiuta di abortire, pur sapendo che l'orribile Freddy Krueger vuol servirsi del piccolo per colpire ancora. Può salvarla, dall'oltretomba, . . .
+
+[ID = 5132]
+Regista: Luca Lucini
+Titolo: Tre metri sopra il Cielo
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00470
+Genere: Commedia
+Durata: 101 min.
+Lingua: ITA,ING
+Attori: Riccardo Scamarcio, Katy Luoise Sounders, Mauro Meconi, Maria Chiara
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Babi ha diciotto anni, è una studentessa modello, una figlia perfetta, ma soprattutto una ragazza romantica che . .
+
+[ID = 5133]
+Regista: Jonathan Betuel
+Titolo: T - Rex   il mio amico Dino
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00471
+Genere: Commedia
+Durata: 90 min.
+Lingua: ITA,ING
+Attori: Whoopi Goldberg, Richard Roundtree, Armin Muller-Stahl
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: In un parco naturale del prossimo futuro in cui i progressi della biotecnologia hanno riportato in vita i dinosauri cominciano ad avvenire misteriose morti violente dei preistorici e pacifici bestioni. Le indagini sono affidate alla poliziotta . .
+
+[ID = 5134]
+Regista: gregory marquette
+Titolo: Innocents
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00472
+Genere: Giallo
+Durata: 97 min.
+Lingua: ITA,ING
+Attori: Connie Nielsen, Jean-hughues Anglade, Mia kirshner, Joseph Culp, keith David
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: UN ARTISTA IN CERCA DI ISPIRAZIONE. DUE SPLENDIDE SORELLE LEGATE DA UN SEGRETO E DALLA STESSA PERICOLOSA OSSESSIONE. UN INCONTRO FATALE. UN MISTERO DA RISOLVERE.. .
+

@@ -1,0 +1,1200 @@
+[ID = 5502]
+Regista: Blake Edwards
+Titolo: Colazione da Tiffany
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00770
+Genere: Commedia
+Durata: 115 min.
+Attori: Audrey Hepburn, George Peppard, Patricia Neal, Buddy Ebsen,
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Due vicini di casa, tutti presi dal denaro e dal successo, riscatteranno il loro basso desiderio ..
+
+[ID = 5503]
+Regista: Rob Marshall
+Titolo: Memorie di una Geisha
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00771
+Genere: Drammatico
+Durata: 140 min.
+Attori: Ziyi Zhang, Ken Watanabe, Kôji Yakusho, Michelle Yeoh,
+Sottotitoli: NO
+Abstract: Ambientato in un mondo esotico e misterioso, che ancora oggi detiene un fascino enorme,...
+
+[ID = 5504]
+Regista: Brian De Palma
+Titolo: Carlito's way
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00772
+Genere: Drammatico
+Durata: 141 min.
+Attori: Al Pacino, Sean Penn, Penelope Ann Miller, John Leguizamo,
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Carlito Brigante, ex malavitoso Newyorkese, dopo cinque anni di prigione riesce a uscire grazie ...
+
+[ID = 5505]
+Regista: Martin Brest
+Titolo: Vi Presento Joe Black
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00773
+Genere: Drammatico
+Durata: 172 min.
+Attori: Brad Pitt, Anthony Hopkins,
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Bill Parrish ha tutto quello che un uomo può desiderare: successo, salute, potere e una bellissima figlia. Nel suo 65° compleanno riceve una visita . . .
+
+[ID = 5506]
+Regista: Duccio Tessari
+Titolo: C'era un Castello con Quaranta Cani
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00774
+Genere: Commedia
+Attori: Peter Ustinov
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Dal romanzo di Remo Forlani. Manager milanese eredita un antico castello in Toscana e vi si trasferisce con la sua compagna e il figlioletto . .
+
+[ID = 5507]
+Regista: Francis Ford Coppola
+Titolo: Dracula
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00775
+Genere: Orrore
+Durata: 130 min.
+Attori: Francis Ford Coppola
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Distrutto dalla morte della sua amata Elisabetta, Vlad l'Impalatore, accetta l'orrore di una vita eterna diventando il vampiro Dracula. . .
+
+[ID = 5508]
+Regista: Gore Verbinski
+Titolo: Weather ( The ) Man
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00776
+Genere: Commedia
+Durata: 102 min.
+Attori: Nicolas Cage, Michael Caine
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: David Spritz l'addetto al servizio delle previsioni meteorologiche della Tv di Chicago, ha un colpo di fortuna quando "Hello America" uno . . .
+
+[ID = 5509]
+Regista: Ron Howard
+Titolo: Cuori Ribelli
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00777
+Genere: Drammatico
+Durata: 140 min.
+Attori: Tom Cruise, Nicole Kidman
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Fine del secolo scorso. Joseph e Shannon, due giovani irlandesi appartenenti a differenti classi sociali, sono accomunati dagli stessi sogni. . .
+
+[ID = 5510]
+Regista: Ron Howard
+Titolo: Cronisti D'Assalto
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00778
+Genere: Commedia
+Durata: 112 min.
+Attori: Ron Howard
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Il giovane redattore Henry Hackett, deve affrontare due problemi contemporaneamente: sua moglie sta per. .
+
+[ID = 5511]
+Regista: Kevin Reynolds
+Titolo: Conte ( Il ) di Montecristo
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00779
+Genere: Storico
+Attori: Gerard Depardieu, Ornella Muti
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Edmond Dantes è un onesto marinaio con l'unica colpa di voler sposare la bella Mercedes di cui anche il suo migliore amico, Fernand . .
+
+[ID = 5512]
+Regista: Philip Gröning
+Titolo: Grande ( Il ) Silenzio
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00780
+Durata: 162 min.
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Die Grösse Stille è tratto dall’esperienza-progetto del regista Philip Gröning, che ha passato ...
+
+[ID = 5513]
+Regista: Bernardo Bertolucci
+Titolo: Novecento - Atto 1° e 2° - due DVD
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00781
+Genere: Drammatico
+Attori: Donald Sutherland, Sterling Hayden, Gerard Depardieu
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: in una fattoria dell'Emilia crescono insieme Olmo, figlio di contadini, e Alfredo, erede del padrone, nati nello stesso giorno del 1900. Dopo i primi scioperi ...
+
+[ID = 5514]
+Regista: Stephen Massicotte
+Titolo: Drk ( The )
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00782
+Genere: Orrore
+Attori: Maurice Roeves, Maria Bello, Sean Bean
+Sottotitoli: NO
+Acquisizione: Acquisto
+
+[ID = 5515]
+Regista: Karyn Kusama
+Titolo: Aeon Flux
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00783
+Genere: Fantastico
+Durata: 93 min.
+Attori: Charlize Theron, Marton Csokas, Jonny Lee Miller, Sophie Okonedo
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: In un lontano futuro, la terra si trova di fronte ad una terribile quanto misteriosa malattia che annienterà . . .
+
+[ID = 5516]
+Regista: Cory Edwards, Todd Edwards
+Titolo: Cappuccetto Rosso e gli insoliti sospetti
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00784
+Genere: Fantastico
+Attori: Glenn Close, Anne Hathaway, James Belushi, Patrick Warburton, . . .
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Una libera interpretazione della classica storia di Cappuccetto Rosso.
+
+[ID = 5517]
+Regista: Cory Edwards, Todd Edwards
+Titolo: Cappuccetto Rosso e gli insoliti sospetti
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00784
+Genere: Fantastico
+Attori: Glenn Close, Anne Hathaway, James Belushi, Patrick Warburton, . . .
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Una libera interpretazione della classica storia di Cappuccetto Rosso.
+
+[ID = 5518]
+Regista: Jerry Zucker
+Titolo: Primo ( Il ) Cavaliere
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00785
+Genere: Storico
+Durata: 139 min.
+Attori: Sean Connery, Richard Gere, Julia Ormond, Ben Cross, Liam Cunningham
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Lancilotto vive sempre pronto per la guerra, infatti teme un attacco dal loro nuovo rissoso vicino . . .
+
+[ID = 5519]
+Regista: Spike Lee
+Titolo: Inside man
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00786
+Genere: Poliziesco
+Durata: 129 min.
+Attori: Denzel Washington, Clive Owen, Jodie Foster, Willem Dafoe, . . .
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Questa è la storia di uno scontro tra un poliziotto e un ladro. Quest'ultimo e' un rapinatore di banche .....
+
+[ID = 5520]
+Regista: Bryan Singer
+Titolo: X Men 2
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00787
+Genere: Avventura
+Attori: Patrick Stewart, Hugh Jackman, Ian McKellen, Halle Berry, . .
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: I mutanti continuano la loro battaglia contro una società che li teme e che non si fida di loro . .
+
+[ID = 5521]
+Regista: Bernardo Bertolucci
+Titolo: Ultimo ( L' ) Imperatore
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00788
+Genere: Storico
+Durata: 163 min.
+Attori: John Lone, Joan Chen, Peter O'Toole, Ruocheng Ying, Victor Wong
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: La trama narra la vita straordinaria di Pu Yi, l'ultimo imperatore della Cina. Passando per gli Anni '20 e '30 . . .
+
+[ID = 5522]
+Regista: Ivan Reitman
+Titolo: Gemelli ( I )
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00789
+Genere: Comico
+Durata: 107 min.
+Attori: Arnold Schwarzenegger, Danny DeVito, Kelly Preston, . . .
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Due gemelli concepiti da una madre fecondata artificialmente da sei uomini geniali vivono seperati . . .
+
+[ID = 5523]
+Regista: Francis Ford Coppola
+Titolo: Fantasmi - Non è vero. Non esistono
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00790
+Genere: Orrore
+Attori: Kate Beckinsale, Aidan Quinn
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Inghilterra,1930 il giovane psicologo
+
+[ID = 5524]
+Regista: Mike Figgis
+Titolo: Mr.Jones
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00791
+Genere: Commedia
+Attori: Richard Gere, Lena Olin, Anne Bancroft, Bill Pullman, Tom Irwin
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Il codice di comportamento professionale, vieta il rapporto affettivo e sessuale tra psichiatra e paziente. Ma l'amore ci fa trasgredire anche . . .
+
+[ID = 5525]
+Regista: Andy Tennant
+Titolo: Anna And The King
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00792
+Genere: Storico
+Attori: Bill Stewart, Deanna Yusoff, Shanthini Venugopal
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Nel 1862 Anna Leonowens, insegnante inglese da poco vedova, arriva nel Siam insieme al figlio adolescente. A Bangkok ha accettato di fare da precettrice ai 58 figli di re Mongkut, alla moglie ufficiale, . . .
+
+[ID = 5526]
+Regista: -
+Titolo: Storia ( La ) di una lasagna
+Oggetto: documentario
+Supporto: DVD
+Collocazione: DVD 00794
+Sottotitoli: NO
+Acquisizione: Dono
+
+[ID = 5527]
+Regista: -
+Titolo: Singles - L'amore è un gioco
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00795
+Genere: Commedia
+Durata: 110 min.
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: A Seattle tre amiche tirano a campare: la prima è delusa dai maschietti, giura di non cascarci più ma un giovanotto perbene le fa cambiare idea . .
+
+[ID = 5529]
+Regista: Martin Scorsese
+Titolo: Casinò
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00796
+Genere: Drammatico
+Attori: Robert  De Niro, Sharon Stone,Joe Pesci
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: A Seattle tre amiche tirano a campare: la prima è delusa dai maschietti, giura di non cascarci più ma un giovanotto perbene le fa cambiare idea . .
+
+[ID = 5530]
+Regista: Chris Gerolmo  Greg Yaitanes
+Titolo: Over There - disco 1 e 2
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00797
+Genere: Storico
+Durata: 310 min.
+Attori: Josh Henderson  Luke MacFarlane
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: La guerra in Iraq vista con gli occhi di un'unità dell'esercito USA, composta da soldati giovanissimi e alla prima esperienza al fronte: . . .
+
+[ID = 5531]
+Regista: Chris Gerolmo  Greg Yaitanes
+Titolo: Over There - Disco 3 e 4
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00798
+Genere: Storico
+Durata: 310 min.
+Attori: Josh Henderson  Luke MacFarlane
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: La guerra in Iraq vista con gli occhi di un'unità dell'esercito USA, composta da soldati giovanissimi e alla prima esperienza al fronte: . . .
+
+[ID = 5532]
+Regista: Joel Schumacher
+Titolo: Fantasma ( Il ) dell'Opera
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00799
+Genere: Drammatico
+Attori: Gerard Butler, Emmy Rossum, Miranda Richardson
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Dai recessi più oscuri del Teatro dell’Opera, una voce misteriosa chiama lei, Christine Daae, innocente ballerina di fila, per coltivare . . .
+
+[ID = 5533]
+Regista: Kazuaki Kiriya
+Titolo: Kyashan - La rinascita
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00800
+Durata: 141 min.
+Attori: Yusuke Iseya, Kumiko Aso, Akira Terao, Kanako Higuchi, Fumiyo Kohinat
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Fine 21esimo secolo. Dopo 50 anni di una devastante guerra tra l'Europa e la Federazione dell'Est, si costituisce la nuova federazione chiamata Eurasia . .
+
+[ID = 5534]
+Regista: -
+Titolo: La Seconda guerra Mondiale - Polonia l'ombra della svastica - Norvegia: L'Acquila sui Fiordi
+Oggetto: documentario
+Supporto: DVD
+Collocazione: DVD 00801
+Sottotitoli: NO
+Acquisizione: Acquisto
+
+[ID = 5535]
+Regista: -
+Titolo: S.Rosa
+Oggetto: documentario
+Supporto: CD-ROM
+Collocazione: DVD 00793
+Sottotitoli: NO
+Acquisizione: Dono
+Abstract: Video CD
+
+[ID = 5536]
+Regista: -
+Titolo: Seconda ( La ) Guerra Mondiale - Monte Belvedere- La Caduta di berlino
+Oggetto: documentario
+Supporto: DVD
+Collocazione: DVD 00802
+Genere: Storico
+Durata: 52 min.
+Sottotitoli: NO
+Acquisizione: Dono
+
+[ID = 5537]
+Regista: Wolfgang Petersen
+Titolo: Poseidon
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00803
+Genere: Drammatico
+Durata: 100 min.
+Attori: Josh Lucas, Kurt Russell, Jacinda Barrett, Richard Dreyfuss,
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: é la sera dell'ultimo dell'anno e a bordo del transatlantico Poseidon, al largo del Nord Atlantico, sono iniziati i festeggiamenti. . .
+
+[ID = 5538]
+Regista: Bobby Farrelly, Peter Farrelly
+Titolo: Fratelli per la Pelle
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00804
+Genere: Commedia
+Durata: 118 min.
+Attori: Matt Damon, Greg Kinnear, Cher, Eva Mendes,
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Bob e Walt sono due fratelli siamesi o gemelli congiunti, come preferiscono farsi chiamare loro. I due hanno stabilito fin dall'infanzia che . . .
+
+[ID = 5539]
+Regista: Eli Roth
+Titolo: Hostel
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00805
+Genere: Orrore
+Durata: 95 min.
+Attori: Jay Hernandez, Derek Richardson, Eythor Gudjonsson,
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Due ragazzi americani, decidono di trascorrere un'avventura in Europa, spinti dalle storie che si raccontano circa la maggior disponibilità . . .
+
+[ID = 5540]
+Regista: Jesse Vaughan
+Titolo: Juwanna Mann
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00806
+Genere: Commedia
+Attori: Miguel A. Nunez Jr., Vivica A. Fox, Kevin Pollak, Tommy Davidson
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Jamal Jeffries, grande star del basket, viene cacciato definitivamente dall'NBA . .
+
+[ID = 5541]
+Regista: Robert Zemeckis
+Titolo: Verità ( Le ) Nascoste
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00807
+Genere: Giallo
+Durata: 129 min.
+Attori: Harrison Ford, Michelle Pfeiffer, Diana Scarwid, Joe Morton,
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Norman Spencer (Harrison Ford) è un professore universitario, la sua vita tranquilla però . . .
+
+[ID = 5542]
+Regista: Stephen Daldry
+Titolo: Hourse ( The )
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00808
+Genere: Drammatico
+Attori: Nicole Kidman, Meryl Streep, Julianne Moore . .
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Tre storie di donne che vivono in periodi diversi ma che hanno come comune denominatore il romanzo "Mrs. Dalloway" di Virginia Woolf. .
+
+[ID = 5543]
+Regista: Carlo Virzì
+Titolo: Estae ( L' ) del mio primo Bacio
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00809
+Genere: Commedia
+Durata: 84 min.
+Attori: Laura Morante, Jacopo Petrini, Andrea Renzi, Gigio Alberti,
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Il passaggio dall'adolescenza all'età adulta della 14enne Camilla che, come ogni anno, trascorre le vacanze estive all'Argentario con la sua famiglia. La ragazza ritrova le solite amiche e i vari personaggi che affollano .....
+
+[ID = 5544]
+Regista: Niall Johnson
+Titolo: Famiglia ( La ) Omicidi
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00810
+Genere: Commedia
+Durata: 99 min.
+Attori: Rowan Atkinson, Kristin Scott thomas, Maggie Smith, Patrick Swayze,
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Walter Goodfellow, vicario della comunità rurale di Little Wallop, è cosi impegnato nella scrittura del sermone perfetto da non rendersi conto di ciò . .
+
+[ID = 5545]
+Regista: Rupert Wainwright
+Titolo: Fog ( The )
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00811
+Genere: Orrore
+Durata: 100 min.
+Attori: Tom Welling, Maggie Grace,
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: è l'anno 1871, una misteriosa nebbia cala sul mare, mentre quattro uomini commettono un abominevole crimine. L'equipaggio e tutti i passeggeri di un veliero affondano e restano sepolti in mare.
+
+[ID = 5546]
+Regista: Brian De Palma
+Titolo: Falò ( Il ) della Verità
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00812
+Genere: Commedia
+Durata: 126 min.
+Attori: Tom Hanks, Bruce Willis, Melanie Griffith, Kim Cattrall, Morgan Freeman
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: La vita e la carriera di un ricco uomo d'affari viene compromessa quando viene citato in tribunale ..
+
+[ID = 5547]
+Regista: Neri Parenti
+Titolo: Body guards
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00813
+Genere: Commedia
+Attori: Christian De Sica, Massimo Boldi, Enzo Salvi, Biagio Izzo,
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Tre carabinieri Paolo (Massimo Boldi), Fabio (Christian De Sica), e Ciro (Biagio Izzo), in seguito ad un incidente vengono . .
+
+[ID = 5548]
+Regista: Morgan Spurlock
+Titolo: Super size me
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00814
+Genere: Commedia
+Durata: 98 MIN.
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Perché gli americani sono così grassi? Scoprilo con Super size me, un modo ironico e intelligente di guardare ai costi economici, legali e fisici . . .
+
+[ID = 5549]
+Regista: Robert Zemeckis
+Titolo: Polar Express
+Oggetto: animazione
+Supporto: DVD
+Collocazione: DVD 00815
+Genere: Fantastico
+Attori: Tom Hanks, Nona Gaye, Peter Scolari, Eddie Deezen, Michael Jeter,
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Basato sul racconto per ragazzi di grande successo di Chris Van Allsburg (già autore di Jumanji), "The polar express" racconta la storia di un ragazzo . .
+
+[ID = 5550]
+Regista: Bobby Farrelly, Peter Farrelly
+Titolo: Amore a Prima Svista
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00816
+Genere: Commedia
+Attori: Gwyneth Paltrow, Jack Black, Jason Alexander, Susan Ward,
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Hal, per non deludere il defunto padre, è in cerca di una ragazza bellissima. Ma sotto l'effetto di un'ipnosi si innamora di Rosemary, una donna obesa . .
+
+[ID = 5551]
+Regista: Juan Bunuel
+Titolo: Ragazza ( La ) con gli stivali rossi
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00875
+Durata: 95 min.
+Attori: Chaterine Deneuve
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Miliardario, patologicamente nemico dell'arte, si finge mecenate per distruggere le opere che compra e, quando ci riesce, i loro autori.. .
+
+[ID = 5552]
+Regista: -
+Titolo: Medici ( i ) - Nascita di una Dinastia
+Oggetto: documentario
+Supporto: DVD
+Collocazione: DVD 00874
+Sottotitoli: NO
+
+[ID = 5553]
+Regista: -
+Titolo: Monte Cassino
+Oggetto: documentario
+Supporto: DVD
+Collocazione: DVD 00873
+Sottotitoli: NO
+Acquisizione: Acquisto
+
+[ID = 5554]
+Regista: Mario Monicelli
+Titolo: Grande ( La ) Guerra
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00872
+Durata: 130 min.
+Attori: Alberto Sordi,Vittorio Gassman,Silvana Mangano
+Sottotitoli: SI
+Acquisizione: Acquisto
+
+[ID = 5556]
+Regista: Brian Gilbert
+Titolo: Wilde
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00871
+Attori: Peter Barkworth, Jennifer Ehle, Stephen Fry, Ioan Gruffudd, Gemma Jones,
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Nel 1883 l'irlandese Oscar Wilde torna a Londra pieno di esuberanza dopo un giro di conferenze negli Stati Uniti, dove è andato anche a visitare i minatori in miniera. In città, corteggia e sposa Constance Lloyd e dal matrimonio ....
+
+[ID = 5557]
+Regista: Mohsen Makhmalbaf
+Titolo: Viaggio a Kandahar
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00870
+Genere: Storico
+Attori: Niloufar Pazira, Hassan Tantaï, Sadou Teymouri
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Nafas è una giovane donna afgana, fuggita dal suo Paese durante la guerra civile dei Talibani e rifugiatasi in Canada, dove lavora come giornalista, impegnata . . .
+
+[ID = 5558]
+Regista: Michele Massimo Tarantini
+Titolo: Napoli si ribella
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00869
+Genere: Poliziesco
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Superpoliziotto venuto dal nord alle prese con un boss della malavita locale.        Il temibile commissario Mauri, fresco di trasferimento a Napoli, indaga su un furto alle cassette di sicurezza di una banca....
+
+[ID = 5559]
+Regista: Agustín Díaz Yanes
+Titolo: Nessuna notizia da Dio
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00868
+Genere: Commedia
+Attori: Victoria Abril, Penélope Cruz, Demián Bichir, Fanny Ardant
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Uno splendido angelo (Victoria Abril), e un bellissimo diavolo (Penelope Cruz), si contendono l'anima di un ex-pugile dal passato turbolento. Molto presto,....
+
+[ID = 5569]
+Regista: Liz Friedlander
+Titolo: Ti va di Ballare?
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00817
+Genere: Commedia
+Durata: 108 min.
+Attori: Antonio Banderas, Rob Brown, Yaya DaCosta, Dante Basco, John Ortiz
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Ispirato alla vera storia di Pierre Dulaine, un danzatore di Manhattan, che si è dedicato ad insegnare danza ad un eterogeneo gruppo di ragazzi..
+
+[ID = 5570]
+Regista: Kevin Reynolds
+Titolo: Tristano & Isotta
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00818
+Genere: Storico
+Durata: 125 min.
+Attori: James Franco, Sophia Myles, Rufus Sewell, David O'Hara,
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Isotta, la figlia del re d'Irlanda deve sposarsi così il sovrano incarica Tristano di scortarla dal futuro sposo, ma durante il viaggio, i due si innamorano
+
+[ID = 5571]
+Regista: Peyton Reed
+Titolo: Ti Odio Ti Lascio Ti..
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00819
+Genere: Commedia
+Durata: 105 min.
+Attori: Vince Vaughn, Jennifer Aniston, Joey Lauren Adams,
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Brooke e Gary, stanno insieme da parecchio, e come in molte altre coppie i litigi sono una routine. Brooke però non ce la fa più e vuole separarsi. Il problema è che nessuno dei due ha intenzione
+
+[ID = 5572]
+Regista: John Madden
+Titolo: Shakespeare in Love
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00820
+Genere: Commedia
+Durata: 120 min.
+Attori: Ben Affleck, Geoffrey Rush, Joseph Fiennes, Gwineth Paltrow,
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Il giovane William (Joseph Fiennes) è alla disperata ricerca della sua verve poetica ormai perduta. La sua musa ispiratrice sarà Viola....
+
+[ID = 5573]
+Regista: Edward Zwick
+Titolo: Vento di Passioni
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00821
+Genere: Drammatico
+Durata: 133 min.
+Attori: Brad Pitt, Anthony Hopkins, Aidan Quinn, Julia Ormond, Henry Thomas
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Il colonello William Ludlow si è ritirato in una fattoria per darsi all'allevamento. Con lui crescono i suoi tre figli: Alfred, Tristan e Samuel che darebbero la vita l'uno per l'altro. Ma quando Samuel porta a casa....
+
+[ID = 5574]
+Regista: F. Gary Gray
+Titolo: BeCool
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00822
+Genere: Commedia
+Durata: 114 min.
+Attori: John Travolta, Uma Thurman, Vince Vaughn, Cedric the Entertainer,
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Sequel del fortunato “Get Shorty” del 1995. Chili Palmer ha abbandonato l'effimera industria dello spettacolo per dedicarsi a quella della canzone
+
+[ID = 5575]
+Regista: Richard Loncraine
+Titolo: Firewall - Accesso negato
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00823
+Genere: Poliziesco
+Durata: 105 min.
+Attori: Harrison Ford, Paul Bettany, Virginia Madsen, Alan Arkin, Robert Patrick,
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Una banda di spietati criminali, tiene in ostaggio la famiglia del capo della sicurezza di una banca globale, per costringerlo, sotto la minaccia di fare del male ai suoi cari, a derubare la . .
+
+[ID = 5576]
+Regista: Giovanni Veronesi
+Titolo: Manuale d'Amore
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00824
+Genere: Commedia
+Attori: Carlo Verdone, Luciana Littizzetto, Silvio Muccino, Sergio Rubini
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Il manuale d'amore comprende quattro fasi: "Innamoramento", "Crisi", "Tradimento" e "Abbandono". Questi quattro capitoli sono . .
+
+[ID = 5577]
+Regista: Roger Kumble
+Titolo: Cosa ( La ) più dolce
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00825
+Genere: Commedia
+Attori: Cameron Diaz, Christina Applegate, Thomas Jane, Selma Blair,
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Christina ha deciso di chiudere con gli uomini, perchè i suoi corteggiatori sono sempre stati uno peggio dell'altro, finchè non incontra Peter...
+
+[ID = 5578]
+Regista: Sydney Pollak
+Titolo: Socio ( Il )
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00826
+Genere: Poliziesco
+Durata: 154 min.
+Attori: Tom Cruise, Gene Hackman, Jeanne Tripplehorn, Ed Harris,
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Il neoavvocato Mitch McDeere, rifiuta le offerte di importanti studi legali per entrare in una oscura società di Memphis, in vista di un brillante futuro. Da un giorno all'altro, infatti, si ritroverà immerso ....
+
+[ID = 5579]
+Regista: Len Wiseman
+Titolo: Underworld: Evolution
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00827
+Genere: Fantastico
+Durata: 106 min.
+Attori: Kate Beckinsale, Scott Speedman, Bill Nighy, Shane Brolly,
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Gli scontri tra Vampiri e Licantropi non si placcano. Intanto qualcuno, Selene e Michael, cercano .....
+
+[ID = 5580]
+Regista: -
+Titolo: American Pie 5 - Nudi alla Meta
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00828
+Genere: Commedia
+Sottotitoli: SI
+Acquisizione: Acquisto
+
+[ID = 5581]
+Regista: -
+Titolo: American Pie 5 - Nudi alla Meta
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00829
+Genere: Commedia
+Sottotitoli: SI
+Acquisizione: Acquisto
+
+[ID = 5582]
+Regista: John Lasseter
+Titolo: Cars
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00830
+Genere: Fantastico
+Durata: 96 min.
+Attori: Bob Costas, Katherine Helmond, Bonnie Hunt, Ray Magliozzi,
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Saetta McQueen, una macchina da corsa alle prime armi ma con un futuro promettente scopre che nella vita l'importante è partecipare e non tagliare il traguardo, quando si ritrova improvvisamente
+
+[ID = 5583]
+Regista: J.J. Abrams
+Titolo: Mission Impossible 3
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00831
+Genere: Fantastico
+Durata: 133 min.
+Attori: Tom Cruise, Philip Seymour Hoffman, Laurence Fishburne, Ving Rhames,
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: La vita privata di Ethan Hunt, Cruise, e della sua ragazza, Michelle Monaghan, viene sconvolta quando il cattivo di turno, Hoffman, tenta di eliminare entrambi...
+
+[ID = 5584]
+Regista: Bryan Singer
+Titolo: soliti ( I ) sospetti
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00832
+Genere: Commedia
+Attori: Kevin Spacey, Stephen Baldwin, Gabriel Byrne, Benicio Del Toro
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Dopo una rapina la polizia americana riunisce cinque malviventi; questi vengono contattati da un personaggio misterioso, tale Kaiser Soze
+
+[ID = 5585]
+Regista: Robert Zemeckis
+Titolo: Cat Away
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00833
+Genere: Drammatico
+Attori: Tom Hanks, Helen Hunt
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Chuck Noland, ingegnere esperto di sistemi informatici la cui vita professionale è scandita dall'orologio, dai ritmi frenetici che la carriera gli impone . .
+
+[ID = 5586]
+Regista: Dominick Tambasco
+Titolo: Nati Stanchi
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00834
+Genere: Commedia
+Attori: Salvo Ficarra, Valentino Picone, Marica Coco, Stefania Bonafede
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Salvo e Valentino sono due ragazzi siciliani scansafatiche, il loro obiettivo è quello di ritardare il più possibile il loro ingresso nel mondo del lavoro . .
+
+[ID = 5587]
+Regista: -
+Titolo: Gobbo ( Il ) di NotreDame
+Oggetto: animazione
+Supporto: DVD
+Collocazione: DVD 00835
+Genere: Fantastico
+Sottotitoli: SI
+Acquisizione: Acquisto
+
+[ID = 5588]
+Regista: -
+Titolo: Mio ( Il ) Eroe Topolino
+Oggetto: animazione
+Supporto: DVD
+Collocazione: DVD 00836
+Genere: Fantastico
+Sottotitoli: SI
+Acquisizione: Acquisto
+
+[ID = 5589]
+Regista: James McTeigue
+Titolo: Per Vendetta
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00837
+Genere: Drammatico
+Durata: 120 min.
+Attori: Natalie Portman, Hugo Weaving, Stephen Rea, John Hurt
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Ambientato nel futuristico paesaggio di una Gran Bretagna dominata da un regime totalitario, la storia di una giovane donna, Evey, la cui vita  . .
+
+[ID = 5590]
+Regista: Mike Mills
+Titolo: Thumbsucker
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00838
+Genere: Commedia
+Durata: 96 min.
+Attori: Keanu Reeves, Vince Vaughn
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Justin é un ragazzo ormai vicino a diventare un uomo, ma nei momenti di tensione continua a succhiarsi il pollice come fanno i bambini. Nel tentativo ...
+
+[ID = 5591]
+Regista: Kurt Wimmer
+Titolo: Ultraviolet
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00839
+Genere: Fantastico
+Durata: 88 min.
+Attori: Milla Jovovich, Cameron Bright, Nick Chinlund, William Fichtner
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Alla fine del ventunesimo secolo, il mondo é minacciato dalla possibilità di una guerra civile, alimentata dall'insofferenza . .
+
+[ID = 5592]
+Regista: Paul Greengrass
+Titolo: United93
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00840
+Genere: Drammatico
+Attori: Lewis Alsamari, Cheyenne Jackson, Trish Gates,
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: 11 Settembre 2001. In questo tragico giorno i terroristi sconvolsero il mondo dirottando una serie di aerei e facendoli ....
+
+[ID = 5593]
+Regista: Marco Risi
+Titolo: Soldati 365 giorni all'alba
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00841
+Genere: Commedia
+Durata: 112 min.
+Sottotitoli: SI
+Acquisizione: Acquisto
+
+[ID = 5594]
+Regista: Chris Columbus
+Titolo: RENT
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00842
+Genere: Musica
+Durata: 135 min.
+Attori: Rosario Dawson, Taye Diggs, Wilson Jermaine Heredia,
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: La vita di alcuni giovani bohemienne moderni, fotografati nel tram tram dell'East Village
+
+[ID = 5595]
+Regista: Vincent Ward
+Titolo: Al di là dei Sogni
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00843
+Genere: Drammatico
+Durata: 108 min.
+Attori: Robin Williams,Cuba Gooding Jr., Annabella Sciorra, Max Von Sydow
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: L'amore che unisce Chris e sua moglie, la pittrice Annie è infinito, nulla neanche l'al di là può separarli. Chris muore in un incidente e raggiunge un Paradiso ...
+
+[ID = 5596]
+Regista: -
+Titolo: Nanny Mc Phee Tata Matilda
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00844
+Genere: Commedia
+Durata: 97 min.
+Sottotitoli: SI
+Acquisizione: Acquisto
+
+[ID = 5597]
+Regista: George Miller
+Titolo: Babe - va in Città
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00845
+Genere: Commedia
+Durata: 95 min.
+Attori: Magda Szubanski, James Cromwell, Mary Stein, Mickey Rooney,
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Il maialino coraggioso questa volta arriva in città. Grazie alle sue doti, salva una comunità di cani, gatti e scimmie e riesce a farli vivere con felicità e sereni
+
+[ID = 5598]
+Regista: Gary Trousdale, Kirk Wise
+Titolo: Atlantis - l'Impero perduto
+Oggetto: animazione
+Supporto: DVD
+Collocazione: DVD 00846
+Genere: Fantastico
+Attori: Michael J. Fox, James Garner, Cree Summer, Leonard Nimoy
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Un giovane avventuriero chiamato Milo Thatch si unisce ad un gruppo di intrepidi esploratori alla ricerca di Atlantide, il misterioso continente scomparso.
+
+[ID = 5599]
+Regista: Richard Donner
+Titolo: Solo 2 Ore
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00847
+Genere: Poliziesco
+Durata: 105 min
+Attori: Bruce Willis, Mos Def, David Morse, Nick Alachiotis, Brian Andersson
+Sottotitoli: NO
+Acquisizione: Acquisto
+Abstract: Un poliziotto in fase di declino e con problemi di alcool, Jack Mosley, deve scortare un malvivente, Eddie Bunker, per una testimonianza in tribunale.
+
+[ID = 5600]
+Regista: D.J. Caruso
+Titolo: Rischio a Due
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00848
+Genere: Commedia
+Durata: 122 min.
+Attori: Al Pacino, Matthew McConaughey, Rene Russo, Armand Assante, Jeremy
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Storia di un giocatore americano -McConaughey- costretto a terminare la sua carriera per una grave ferita al ginocchio. Il giocatore si riciclera' nel mondo delle scommesse sportive e diventera' il braccio .....
+
+[ID = 5601]
+Regista: Marco Bellocchio
+Titolo: Regista ( Di ) Matrimoni
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00849
+Genere: Commedia
+Durata: 107 min.
+Attori: Sergio Castellitto, Donatella Finocchiaro, Sami Frey,
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Un regista, Franco Elica, entra in crisi perché la figlia ha sposato un fervente cattolico e perché è costretto suo malgrado a girare l'ennesima versione dei "I Promessi Sposi". Alla crisi si aggiunge ...
+
+[ID = 5602]
+Regista: Darren Lynn Bousman
+Titolo: Saw 2 - La soluzione dell'enigma
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00850
+Genere: Orrore
+Durata: 107 min.
+Attori: Tobin Bell, Lyriq Bent, Tim Burd, John Fallon, Franky G,
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Jigsaw è tornato. Il brillante e psicotico ideatore dello sterminio delle sue vittime in "SAW", è tornato per .....
+
+[ID = 5603]
+Regista: -
+Titolo: Pianeta ( Il ) Del Tesoro
+Oggetto: animazione
+Supporto: DVD
+Collocazione: DVD 00851
+Genere: Fantastico
+Sottotitoli: SI
+Acquisizione: Acquisto
+
+[ID = 5604]
+Regista: Istituto Luce
+Titolo: Rudy
+Oggetto: documentario
+Supporto: DVD
+Collocazione: DVD 00852
+Sottotitoli: NO
+Acquisizione: Acquisto
+
+[ID = 5605]
+Regista: -
+Titolo: Sirenetta ( La )
+Oggetto: animazione
+Supporto: DVD
+Collocazione: DVD 00853
+Genere: Fantastico
+Sottotitoli: SI
+Acquisizione: Acquisto
+
+[ID = 5606]
+Regista: -
+Titolo: Robin Hood
+Oggetto: animazione
+Supporto: DVD
+Collocazione: DVD 00854
+Genere: Fantastico
+Sottotitoli: SI
+Acquisizione: Acquisto
+
+[ID = 5607]
+Regista: -
+Titolo: Fiabe - Il Principe e il Povero- La leggenda della Valle Addormentata
+Oggetto: animazione
+Supporto: DVD
+Collocazione: DVD 00855
+Genere: Fantastico
+Sottotitoli: SI
+Acquisizione: Acquisto
+
+[ID = 5608]
+Regista: -
+Titolo: Principe ( I l ) d'Egitto
+Oggetto: animazione
+Supporto: DVD
+Collocazione: DVD 00856
+Genere: Fantastico
+Sottotitoli: SI
+Acquisizione: Acquisto
+
+[ID = 5609]
+Regista: Penelope Spheeris
+Titolo: Fusi di Testa 2
+Oggetto: documentario
+Supporto: DVD
+Collocazione: DVD 00857
+Genere: Commedia
+Durata: 91 min.
+Attori: Mike Myers, Dana Carvey, Rob Lowe, Tia Carrere, Brian Doyle-Murray
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: A due amici che conducono un show televisivo via cavo, viene offerto da un network un ingaggio da urlo. Ma quando si accorgono che il loro ....
+
+[ID = 5610]
+Regista: Clark Johnson
+Titolo: Sentinel ( The )
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00858
+Genere: Giallo
+Durata: 108 min.
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Pete Garrison è un agente dei servizi segreti americani: vent’anni fa ha salvato la vita ad un presidente facendogli scudo con il proprio corpo e proteggendolo da una pioggia di proiettili....
+
+[ID = 5611]
+Regista: Tom Shadyac
+Titolo: Ace Ventura L'Acchiappanimali
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00859
+Genere: Commedia
+Durata: 90 min.
+Attori: Jim Carrey, Courteney Cox, Sean Young, Tone Loc, Dan Marino
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Specializzato nel recupero di animali smarriti, Ace Ventura, viene incaricato dai manager della squadra dei Dolphins, di ritrovare il delfino Snowflake, mascotte della squadra, rapito alla vigilia della ...
+
+[ID = 5612]
+Regista: -
+Titolo: Amityville possession
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00860
+Genere: Orrore
+Durata: 94 min.
+Sottotitoli: SI
+Acquisizione: Acquisto
+

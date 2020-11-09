@@ -1,0 +1,985 @@
+[ID = 11]
+Regista: Canepa Paolo
+Titolo: Tuscia ambiente una grande occasione
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 00011
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: SI
+
+[ID = 13]
+Regista: Coco Bruno
+Titolo: Carnevale viterbese
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 00013
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: SI
+
+[ID = 14]
+Regista: Coco Bruno
+Titolo: Palio della botte a Viterbo
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 00014
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: SI
+
+[ID = 15]
+Regista: Coco Bruno
+Titolo: Presepi a Viterbo
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 00015
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: SI
+
+[ID = 16]
+Regista: Coco Bruno
+Titolo: Presidente Repubblica Pertini a Viterbo
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 00016
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: SI
+
+[ID = 17]
+Regista: Coco Bruno
+Titolo: Coppa Ronchetti
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 00017
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: SI
+
+[ID = 18]
+Regista: Coco Bruno
+Titolo: Cittadinanza onoraria ai Facchini di S. Rosa
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 00018
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: SI
+
+[ID = 19]
+Regista: Coco Bruno
+Titolo: Notte di Natale = Nevicate a Viterbo
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 00019
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: SI
+
+[ID = 20]
+Regista: Coco Bruno
+Titolo: Coppa campioni basket femminile
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 00020
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: SI
+
+[ID = 21]
+Regista: Coco Bruno
+Titolo: Poeti a braccio a Viterbo
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 00021
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: SI
+
+[ID = 22]
+Regista: Coco Bruno
+Titolo: Commedia dialettale a Viterbo
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 00022
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: SI
+
+[ID = 23]
+Regista: Coco Bruno
+Titolo: Feste di Santa Rosa a Viterbo
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 00023
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: SI
+
+[ID = 138]
+Titolo: Viterbo Santa Maria della Verità museo civico
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 00138
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: SI
+
+[ID = 145]
+Titolo: Acquedotti di Roma antica = Gli Etruschi nel Lazio
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 00145
+Genere: Storico
+Argomenti: storia
+Lingua: IT
+Sottotitoli: SI
+Abstract: Documentario storia
+
+[ID = 147]
+Titolo: Testimonianze di cittadini...sull'occupaz. fascista a Roma
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 00147
+Genere: Storico
+Argomenti: storia
+Lingua: IT
+Sottotitoli: SI
+Abstract: Documentario storia
+
+[ID = 148]
+Titolo: Piacere Rai Uno 22/1/1990 - Teatro dell'Unione
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 00148
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: SI
+
+[ID = 149]
+Titolo: Piacere Rai Uno 23/1/1990 - Teatro dell'Unione
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 00149
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: SI
+
+[ID = 150]
+Titolo: Piacere Rai Uno 24/1/1990 - Teatro dell'Unione
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 00150
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: SI
+
+[ID = 151]
+Titolo: Piacere Rai Uno 25/1/1990 - Teatro dell'Unione
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 00151
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: SI
+
+[ID = 152]
+Titolo: Piacere Rai Uno 26/1/1990 - Teatro dell'Unione
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 00152
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: SI
+
+[ID = 153]
+Titolo: Sala cine Alberini Orte - Tango argentino
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 00153
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: SI
+
+[ID = 154]
+Titolo: Progetto di ristrutturazione della Valle di Faul - Viterbo
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 00154
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: SI
+
+[ID = 173]
+Titolo: Etruschi a nord degli Appennini
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 00173
+Argomenti: popoli
+Lingua: IT
+Sottotitoli: SI
+Abstract: Documentario popoli
+
+[ID = 208]
+Titolo: Marta la Barabbata
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 00208
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: SI
+
+[ID = 209]
+Titolo: Macchina di S.Rosa - storia e trasporto - 1991
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 00209
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: SI
+
+[ID = 210]
+Titolo: San Martino al Cimino
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 00210
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: SI
+
+[ID = 710]
+Regista: Prosperoni Mario
+Titolo: Trasporto della Macchina di S.Rosa 3/9/1991: La sfida dei facchini
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 00710
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: SI
+
+[ID = 713]
+Regista: Massi Stelvio-Camastro Manlio
+Titolo: Viterbo città d'arte
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 00713
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: SI
+
+[ID = 715]
+Regista: Arduini Marcello
+Titolo: Bolsena natura per amica
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 00715
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: SI
+
+[ID = 746]
+Regista: Carbone Mario
+Titolo: Calcata rivive
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 00746
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: SI
+
+[ID = 748]
+Titolo: Immagini e segni di Carlo Vincenti
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 00748
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: SI
+
+[ID = 775]
+Regista: Silvestri Andrea e Graziano
+Titolo: Christina la Martire del Lago di Bolsena
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 00775
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: SI
+
+[ID = 776]
+Regista: Romagnoli Mario
+Titolo: Ceramiche da spezieria e d'amore
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 00776
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: SI
+
+[ID = 790]
+Titolo: Mondo [Il] degli Etruschi - Viterbo Palazzo Papale 3/9-14/10/1990
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 00790
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: SI
+
+[ID = 791]
+Regista: Valerioti Emilio
+Titolo: Tarquinia medioevale
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 00791
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: SI
+
+[ID = 793]
+Regista: Associazione Tuscia dialett.
+Titolo: XXII Edizione Dialettalità del Presepe
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 00793
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: SI
+
+[ID = 794]
+Regista: Segatori Fabio
+Titolo: Aspro [Un] naufragio - Carlo Vincenti
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 00794
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: SI
+
+[ID = 807]
+Regista: Luciano Antony
+Titolo: Vino, cultura e tradizione in Italia [con Montefiascone e Defuk]
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 00807
+Argomenti: alimentazione, vino
+Lingua: IT
+Sottotitoli: SI
+Abstract: Documentario alimentazione
+
+[ID = 891]
+Regista: Freda Arturo
+Titolo: Italia [L'] dei tesori Viterbo
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 00891
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: SI
+
+[ID = 908]
+Regista: Fiorita Gianfranco
+Titolo: Passeggiando a Viterbo
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 00908
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: SI
+
+[ID = 910]
+Regista: Quilici Folco
+Titolo: Lazio - L'Italia vista dal cielo - parte 1
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 00910
+Argomenti: geografia
+Lingua: IT
+Sottotitoli: SI
+Abstract: Documentario geografia
+
+[ID = 911]
+Regista: Quilici Folco
+Titolo: Lazio - L'Italia vista dal cielo - parte 2
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 00911
+Argomenti: geografia
+Lingua: IT
+Sottotitoli: SI
+Abstract: Documentario geografia
+
+[ID = 974]
+Regista: Silvestri Graziano
+Titolo: Tuscania "vent'anni"
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 00974
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: SI
+
+[ID = 1065]
+Regista: Grimaldi Stefano
+Titolo: Civita un viaggio nel passato
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 01065
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: NO
+
+[ID = 1533]
+Regista: Quilici Folco
+Titolo: Etruschi [Gli] - Una terra una gente
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 01533
+Argomenti: popoli
+Lingua: IT
+Sottotitoli: NO
+Abstract: Documentario popoli
+
+[ID = 1534]
+Regista: Quilici Folco
+Titolo: Etruschi [Gli] - Misteri e tesori
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 01534
+Argomenti: popoli
+Lingua: IT
+Sottotitoli: NO
+Abstract: Documentario popoli
+
+[ID = 1535]
+Regista: Quilici Folco
+Titolo: Etruschi [Gli] - Alba d'Italia
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 01535
+Argomenti: popoli
+Lingua: IT
+Sottotitoli: NO
+Abstract: Documentario popoli
+
+[ID = 1538]
+Titolo: Viterbo tra storia e leggenda "La Santa, la bella..."
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 01538
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: NO
+
+[ID = 1542]
+Titolo: 3 video poesie
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 01542
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: NO
+
+[ID = 1543]
+Regista: Cantiani Vincenzo
+Titolo: Tuscia [La] un museo all'aperto
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 01543
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: NO
+
+[ID = 1568]
+Regista: Grimaldi Stefano
+Titolo: Viterbo il museo civico
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 01568
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: NO
+
+[ID = 1569]
+Titolo: Tuscania "vent'anni"
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 01569
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: NO
+
+[ID = 1570]
+Titolo: Cardarelli Vincenzo "Terra Mia"
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 01570
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: NO
+
+[ID = 1571]
+Titolo: Scuola Addestramento Reclute VAM Viterbo
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 01571
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: NO
+
+[ID = 1572]
+Regista: Grimaldi Stefano
+Titolo: Ischia di Castro l'erede della città perduta
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 01572
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: NO
+
+[ID = 1573]
+Regista: Moscini Marcello
+Titolo: Bolsena "Christina" la Martire del lago
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 01573
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: NO
+
+[ID = 1721]
+Regista: Petrosino Mario
+Titolo: Perché non sai gridare? Carlo Vincenti un artista
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 01721
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: NO
+
+[ID = 1722]
+Regista: Petrosino Mario
+Titolo: Perché non sai gridare? Carlo Vincenti un artista
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 01722
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: NO
+
+[ID = 1723]
+Titolo: Maremma di Tiburzi. Briganti della Maremma...dell'800
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 01723
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: NO
+
+[ID = 1942]
+Titolo: Terme in Italia
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 01941
+Argomenti: salute
+Lingua: IT
+Sottotitoli: NO
+Abstract: Documentario salute
+
+[ID = 2062]
+Regista: Cesarini Sergio
+Titolo: Tesori [I] di Tarquinia capitale degli Etruschi
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 02061
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: NO
+
+[ID = 2063]
+Regista: Cesarini Sergio
+Titolo: Tesori [I] di Tarquinia capitale degli Etruschi
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 02062
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: NO
+
+[ID = 2970]
+Regista: Castronuovo Ferruccio
+Titolo: Civita di Bagnoregio e la valle dei calanchi
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 02968
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: NO
+
+[ID = 2971]
+Regista: Aleotti Paolo
+Titolo: Rosa [Una] per il 2000 - Viterbo 11 settembre 1998
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 02969
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: NO
+
+[ID = 2972]
+Titolo: Marta - S. Natale 1994 il primo presepe vivente
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 02970
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: NO
+
+[ID = 2973]
+Titolo: Macchina [La] di Santa Rosa
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 02971
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: NO
+
+[ID = 2974]
+Titolo: Macchina [La] di Santa Rosa
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 02972
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: NO
+
+[ID = 3009]
+Titolo: Viterbo e il culto di Santa Rosa-Storia e trasporto della Macchina di S. Rosa
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 03007
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: NO
+
+[ID = 3010]
+Regista: Silvestri Giovanna
+Titolo: Macchina [La] di Santa Rosa-Una rosa per il 2000-Rai 3-5 settembre 1998
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 03008
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: NO
+
+[ID = 3011]
+Titolo: Corso per i bibliotecari della Provincia di Viterbo
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 03009
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: NO
+
+[ID = 3032]
+Regista: Cesarini Sergio
+Titolo: Terra [La] dei parchi - Ambiente e natura nella Provincia di Viterbo
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 03030
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: NO
+
+[ID = 3066]
+Regista: Puri Antonietta
+Titolo: Amalasunta - Un tramonto rosso sangue
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 03064
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: NO
+
+[ID = 3076]
+Regista: Cesarini Sergio
+Titolo: Carri da guerra etruschi
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 03074
+Argomenti: archeologia
+Lingua: IT
+Sottotitoli: NO
+Abstract: Documentario archeologia
+
+[ID = 3088]
+Regista: Galeotti Giuseppe (Pino)
+Titolo: Affreschi di petali - i Pugnaloni di Acquapendente
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 03086
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: NO
+
+[ID = 3112]
+Titolo: Viterbo - Macchina di Santa Rosa [1963]
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 03110
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: NO
+
+[ID = 3118]
+Regista: Scaglione Michele
+Titolo: Viterbo - Convento di San Paolo ai Cappuccini
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 03116
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: NO
+
+[ID = 3119]
+Regista: Brunori G.Battista
+Titolo: Viterbo la fede sotto casa
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 03117
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: NO
+
+[ID = 3498]
+Titolo: Vediamoci in C1 1998-99: un anno da viterbese
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 03496
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: NO
+
+[ID = 3597]
+Titolo: Macchina [La] di Santa Rosa
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 03595
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: NO
+
+[ID = 3600]
+Regista: Piludu Ferruccio-Salimei Lucilla
+Titolo: Noi e gli Etruschi
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 03598
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: NO
+
+[ID = 3818]
+Titolo: Gradoli e la Fratellanza del Purgatorio
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 03816
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: NO
+
+[ID = 4160]
+Regista: Coppa Patrizia
+Titolo: Trasporto Mini-Macchina di S. Rosa 1/9/2000
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 04160
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: NO
+
+[ID = 4161]
+Regista: Coppa Patrizia
+Titolo: Villa Buon Respiro a Viterbo
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 04161
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: NO
+
+[ID = 4162]
+Regista: Coppa Patrizia
+Titolo: Chiesa [La] di san Niccolò a Viterbo
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 04162
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: NO
+
+[ID = 4163]
+Regista: Coppa Patrizia
+Titolo: SERT inaugurazione Centro diurno
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 04163
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: NO
+
+[ID = 4164]
+Regista: Coppa Patrizia
+Titolo: SERT Mostra elaborati S.Pellegrino in Fiore
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 04164
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: NO
+
+[ID = 4165]
+Regista: Coppa Patrizia
+Titolo: SERT analisi elaborati
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 04165
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: NO
+
+[ID = 4166]
+Regista: Coppa Patrizia
+Titolo: Maresciallo [Il] Rocca a Viterbo
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 04166
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: NO
+
+[ID = 4167]
+Regista: Coppa Patrizia
+Titolo: Pinacoteca [La] di Palazzo dei Priori
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 04167
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: NO
+
+[ID = 4168]
+Regista: Coppa Patrizia
+Titolo: Carlo Celestini deposizione cippo
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 04168
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: NO
+
+[ID = 4169]
+Regista: Coppa Patrizia
+Titolo: Tuscia passo, passo - Donna Olimpia
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 04169
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: NO
+
+[ID = 4170]
+Regista: Coppa Patrizia
+Titolo: Mostra Mater misericordiae
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 04170
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: NO
+
+[ID = 4171]
+Regista: Coppa Patrizia
+Titolo: Ebrei viterbesi apposizione epigrafe
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 04171
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: NO
+
+[ID = 4172]
+Regista: Coppa Patrizia
+Titolo: Recupero affreschi Chiesa di S.Maria della Verità
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 04172
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: NO
+
+[ID = 4353]
+Regista: Pierini Isa
+Titolo: Bella [La] Galiana
+Oggetto: teatro
+Supporto: VHS
+Collocazione: VC 04353
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: NO
+Abstract: Teatro
+
+[ID = 4495]
+Titolo: Processione [La] del Cristo morto - Bagnaia [VT]
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 04495
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: NO
+
+[ID = 4501]
+Regista: Coppa Patrizia-Galeotti Mauro
+Titolo: Mini Macchina di Santa Rosa a Soriano nel Cimino [VT]
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 04501
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: NO
+
+[ID = 4507]
+Titolo: Macchina [La] di Santa Rosa
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 04507
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: NO
+
+[ID = 4532]
+Titolo: Santa Maria in Gradi e San Carlo recuperati
+Oggetto: documentario
+Supporto: VHS
+Collocazione: VC 04532
+Genere: Documentazione locale
+Lingua: IT
+Sottotitoli: NO
+
+[ID = 4538]
+Regista: Jarmusch Jim
+Titolo: Ghost Dog - Il codice del samurai
+Oggetto: film
+Supporto: DVD
+Collocazione: DVD 00001
+Produzione: FRANCIA,GERMANIA,USA, 1999
+Genere: Drammatico
+Durata: 116 min.
+Lingua: IT
+Attori: Whitaker Forest, Tormey John
+Sottotitoli: SI
+Acquisizione: Acquisto
+Abstract: Ghost Dog è un killer professionista, chiamato così perchè come un "cane fantasma" si muove senza lasciare traccia. Ghost Dog ha una sua "Bibbia"....
+Note: *
+
